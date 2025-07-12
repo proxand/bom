@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "775612725941",
+    "project_id": "planstidentify-and",
+    "storage_bucket": "plantidentify-and.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775612735946:android:2e122897414a63318eaf33",
+        "android_client_info": {
+          "package_name": "com.example.proxbom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmKassahStRfxt-qe-USpDNxC4JAWTChUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775112735946:android:a83c9ca2a9b7ac658eaf33",
+        "android_client_info": {
+          "package_name": "com.example.proxbom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmKFvahStRfxt-qe-USpDNxC4JAWTChUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

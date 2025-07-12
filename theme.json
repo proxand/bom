@@ -1,0 +1,5758 @@
+{
+  "data": {
+    "hot": [
+      {
+        "name": "daily19",
+        "item": -1,
+        "path": "https://gslideshowres.ijoysoftconnect.com/theme/daily/daily19.zip",
+        "musicPath": "/music/soft/City Sunshine.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/daily/daily19",
+        "vip": true,
+        "translate": {
+          "en": "Gleam and Glow",
+          "zh": "闪闪发光",
+          "zh-HK": "閃閃發光"
+        }
+      },
+      {
+        "name": "common29",
+        "item": -1,
+        "path": "https://gslideshowres.ijoysoftconnect.com/theme/common/common29.zip",
+        "musicPath": "https://gslideshowres.ijoysoftconnect.com/music/happy/BeHappy.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "https://gslideshowres.ijoysoftconnect.com/resource_3/common/cute u",
+        "translate": {
+          "en": "You are Cute",
+          "zh": "可爱的你",
+          "zh-HK": "可愛的你"
+        }
+      },
+      {
+        "name": "sport13",
+        "item": 1,
+        "path": "https://gslideshowres.ijoysoftconnect.com/theme/sport/sport13.zip",
+        "musicPath": "/music/beats/Upbeat Funk Pop .mp3",
+        "particle": "NATURAL_82",
+        "transitions": "PAG_MG15",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/sport/sport13",
+        "translate": {
+          "en": "Speed Serve",
+          "zh": "快速发球",
+          "zh-HK": "快速發球"
+        }
+      },
+      {
+        "name": "sport21",
+        "item": 1,
+        "path": "https://gslideshowres.ijoysoftconnect.com/theme/sport/sport21.zip",
+        "musicPath": "/music/beats/Upbeat Funk Pop .mp3",
+        "transitions": "FLASH_WHITE",
+        "ratio": "9:16",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/sport/sport21",
+        "translate": {
+          "en": "Run To Win",
+          "zh": "奔跑取胜",
+          "zh-HK": "奔跑取勝"
+        }
+      },
+      {
+        "name": "love25",
+        "item": 1,
+        "path": "https://gslideshowres.ijoysoftconnect.com/theme/love/love25.zip",
+        "musicPath": "/music/love/MyLove.mp3",
+        "particle": "LOVE_68",
+        "transitions": "PAG_BOOM1",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/love/love25",
+        "vip": true,
+        "translate": {
+          "en": "Love Bloom",
+          "zh": "爱的绽放",
+          "zh-HK": "愛的綻放"
+        }
+      },
+      {
+        "name": "love17",
+        "item": 1,
+        "path": "/theme/love/love17.zip",
+        "musicPath": "/music/love/WeddingDream.mp3",
+        "particle": "NATURAL_78",
+        "transitions": "SERIES12",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/love/love17",
+        "translate": {
+          "en": "For Love",
+          "zh": "为了爱",
+          "zh-HK": "為了愛"
+        }
+      },
+      {
+        "name": "food12",
+        "item": 1,
+        "path": "/theme/food/food12.zip",
+        "musicPath": "/music/festival/happy-acoustic.mp3",
+        "particle": "PAG_PARTICLE16",
+        "transitions": "SERIES5",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/food/food12",
+        "translate": {
+          "en": "Food Movie",
+          "zh": "美食电影",
+          "zh-HK": "美食電影"
+        }
+      },
+      {
+        "name": "wedding25",
+        "item": 1,
+        "path": "https://gslideshowres.ijoysoftconnect.com/theme/wedding/wedding25.zip",
+        "musicPath": "/music/love/WeddingDream.mp3",
+        "particle": "PAG_PARTICLE21",
+        "transitions": "FADE_IN",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/wedding/wedding25",
+        "translate": {
+          "en": "Wedding Cheers",
+          "zh": "婚礼欢呼",
+          "zh-HK": "婚禮歡呼"
+        }
+      },
+      {
+        "name": "food16",
+        "item": 1,
+        "path": "/theme/food/food16.zip",
+        "musicPath": "/music/soft/City Sunshine.mp3",
+        "particle": "PAG_PARTICLE5",
+        "transitions": "PAG_INTEREST_COMMON2",
+        "ratio": "3:4",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/food/food16",
+        "vip": true,
+        "translate": {
+          "en": "Food Theater",
+          "zh": "美食剧场",
+          "zh-HK": "美食劇場"
+        }
+      },
+      {
+        "name": "wedding19",
+        "item": 1,
+        "path": "/theme/wedding/wedding19.zip",
+        "musicPath": "/music/love/WeddingDream.mp3",
+        "particle": "NATURAL_78",
+        "transitions": "PAG_PARTICLE2",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/wedding/wedding19",
+        "translate": {
+          "en": "Matrimony Magic",
+          "zh": "婚姻魔法",
+          "zh-HK": "婚姻魔法"
+        }
+      },
+      {
+        "name": "baby13",
+        "item": -1,
+        "path": "/theme/baby/baby13.zip",
+        "musicPath": "/music/children/RainyDayGames.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/baby/baby13",
+        "translate": {
+          "en": "Baby Adventures",
+          "zh": "宝宝冒险",
+          "zh-HK": "寶寶冒險"
+        }
+      },
+      {
+        "name": "travel26",
+        "item": -1,
+        "path": "/theme/travel/travel26.zip",
+        "musicPath": "/music/festival/happy-holiday.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/travel/travel26",
+        "translate": {
+          "en": "Seaside Expedition",
+          "zh": "海滨旅行",
+          "zh-HK": "海濱旅行"
+        }
+      },
+      {
+        "name": "baby10",
+        "item": -1,
+        "path": "/theme/baby/baby10.zip",
+        "musicPath": "/music/children/RainyDayGames.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/baby/baby10",
+        "vip": true,
+        "translate": {
+          "en": "Baby Bubbles",
+          "zh": "婴儿泡泡",
+          "zh-HK": "嬰兒泡泡"
+        }
+      },
+      {
+        "name": "baby9",
+        "item": -1,
+        "path": "/theme/baby/baby9.zip",
+        "musicPath": "/music/soft/ConnecttheDots.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/baby/baby9",
+        "translate": {
+          "en": "Angelic Smile",
+          "zh": "天使微笑",
+          "zh-HK": "天使微笑"
+        }
+      },
+      {
+        "name": "sport3",
+        "item": -1,
+        "path": "/theme/sport/sport3.zip",
+        "musicPath": "/music/beats/Upbeat Funk Pop .mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/sport/sport3",
+        "vip": true,
+        "translate": {
+          "en": "Sportive Life",
+          "zh": "运动生活",
+          "zh-HK": "運動生活"
+        }
+      },
+      {
+        "name": "newyear26",
+        "item": 1,
+        "path": "/theme/newyear/newyear26.zip",
+        "musicPath": "/music/general/positive_happy.mp3",
+        "particle": "PAG_PARTICLE27",
+        "transitions": "PAG_BOOM4",
+        "ratio": "16:9",
+        "previewRatio": "16:9",
+        "previewPath": "/resource_3/newyear/newyear26",
+        "translate": {
+          "en": "New Year Lights",
+          "zh": "新年灯光",
+          "zh-HK": "新年燈光"
+        }
+      },
+      {
+        "name": "newyear30",
+        "item": 1,
+        "path": "/theme/newyear/newyear30.zip",
+        "musicPath": "/music/beats/Beyond Dreams.mp3",
+        "particle": "FANCY_61",
+        "transitions": "SERIES2",
+        "ratio": "3:4",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/newyear/newyear30",
+        "translate": {
+          "en": "2025 Celebration",
+          "zh": "2025庆典",
+          "zh-HK": "2025慶典"
+        }
+      },
+      {
+        "name": "daily10",
+        "item": -1,
+        "path": "/theme/daily/daily10.zip",
+        "musicPath": "/music/children/DancingonGreenGrass.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/daily/daily10",
+        "translate": {
+          "en": "Pet Companion",
+          "zh": "宠物陪伴",
+          "zh-HK": "宠物陪伴"
+        }
+      },
+      {
+        "name": "valentine15",
+        "item": -1,
+        "path": "/theme/valentine/valentine15_v2.zip",
+        "musicPath": "/music/love/YouRaiseMeUp.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/valentine/Valentine Day",
+        "vip": true,
+        "translate": {
+          "en": "Romance Day",
+          "zh": "浪漫之日",
+          "zh-HK": "浪漫之日"
+        }
+      },
+      {
+        "name": "valentine16",
+        "item": -1,
+        "path": "/theme/valentine/valentine16_v2.zip",
+        "musicPath": "/music/love/cinematic-fairy-tale-story-main.mp3",
+        "previewRatio": "1:1",
+        "previewPath": "/resource_3/valentine/valentine16",
+        "translate": {
+          "en": "Passionate Rose",
+          "zh": "热情玫瑰",
+          "zh-HK": "熱情玫瑰"
+        }
+      },
+      {
+        "name": "common30",
+        "item": -1,
+        "path": "/theme/common/common30.zip",
+        "musicPath": "/music/happy/Funshine.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/common/you are sweet",
+        "translate": {
+          "en": "You are Beautiful",
+          "zh": "最美的你",
+          "zh-HK": "最美的你"
+        }
+      },
+      {
+        "name": "common24",
+        "item": -1,
+        "path": "/theme/common/common24.zip",
+        "musicPath": "/music/soft/Higher.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/common/dream",
+        "translate": {
+          "en": "Have a Dream",
+          "zh": "做个梦",
+          "zh-HK": "做個夢"
+        }
+      },
+      {
+        "name": "sport1",
+        "item": -1,
+        "path": "/theme/sport/sport1.zip",
+        "musicPath": "/music/beats/Upbeat Funk Pop .mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/sport/sport1",
+        "translate": {
+          "en": "Football Game",
+          "zh": "足球比赛",
+          "zh-HK": "足球比賽"
+        }
+      },
+      {
+        "name": "birthday12",
+        "item": -1,
+        "path": "/theme/birthday/birthday12_v2.zip",
+        "musicPath": "/music/birthday/HappyBirthdayPiano.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/birthday/birthday ribbon",
+        "vip": true,
+        "translate": {
+          "en": "Bow-Tied Birthday",
+          "zh": "生日蝴蝶结",
+          "zh-HK": "生日蝴蝶結"
+        }
+      },
+      {
+        "name": "love8",
+        "item": -1,
+        "path": "/theme/love/love8_v2.zip",
+        "musicPath": "/music/love/cinematic-fairy-tale-story-main.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/love/valentine",
+        "translate": {
+          "en": "Day Of Romance",
+          "zh": "浪漫日子",
+          "zh-HK": "浪漫日子"
+        }
+      },
+      {
+        "name": "birthday18",
+        "item": -1,
+        "path": "/theme/birthday/birthday18.zip",
+        "musicPath": "/music/birthday/HappyBirthdayPiano.mp3",
+        "previewRatio": "1:1",
+        "previewPath": "/resource_3/birthday/birthday stamp",
+        "translate": {
+          "en": "Birthday Hat",
+          "zh": "生日礼帽",
+          "zh-HK": "生日禮帽"
+        }
+      },
+      {
+        "name": "baby5",
+        "item": -1,
+        "path": "/theme/baby/baby5_v2.zip",
+        "musicPath": "/music/children/DancingonGreenGrass.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/baby/Bulloon Baby",
+        "translate": {
+          "en": "Happy Baby",
+          "zh": "开心宝宝",
+          "zh-HK": "開心寶寶"
+        }
+      },
+      {
+        "name": "daily8",
+        "item": -1,
+        "path": "/theme/daily/daily8.zip",
+        "musicPath": "/music/soft/ConnecttheDots.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/daily/daily8",
+        "vip": true,
+        "translate": {
+          "en": "Dream Life",
+          "zh": "理想生活",
+          "zh-HK": "理想生活"
+        }
+      },
+      {
+        "name": "baby6",
+        "item": -1,
+        "path": "/theme/baby/baby6_v2.zip",
+        "musicPath": "/music/children/Mr.Turtle.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/baby/Teddy Baby",
+        "translate": {
+          "en": "Joyful Baby",
+          "zh": "欢乐宝宝",
+          "zh-HK": "歡樂寶寶"
+        }
+      },
+      {
+        "name": "travel23",
+        "item": -1,
+        "path": "/theme/travel/travel23.zip",
+        "musicPath": "/music/happy/AtTheFair.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/travel/travel23",
+        "translate": {
+          "en": "Warm Time",
+          "zh": "温暖夏日",
+          "zh-HK": "溫暖夏日"
+        }
+      },
+      {
+        "name": "travel20",
+        "item": -1,
+        "path": "/theme/travel/travel20.zip",
+        "musicPath": "/music/happy/Sunny_Afternoon.mp3",
+        "previewRatio": "1:1",
+        "previewPath": "/resource_3/travel/travel20",
+        "translate": {
+          "en": "Autumnal Splendor",
+          "zh": "秋日之美",
+          "zh-HK": "秋日之美"
+        }
+      },
+      {
+        "name": "wedding7",
+        "item": -1,
+        "path": "/theme/wedding/wedding7_v2.zip",
+        "musicPath": "/music/love/ViolinConcertoinEmajorRV269Spring-III.Allegro.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/wedding/Happy wedding",
+        "vip": true,
+        "translate": {
+          "en": "Merry Marriage",
+          "zh": "欢乐新婚",
+          "zh-HK": "歡樂新婚"
+        }
+      },
+      {
+        "name": "wedding10",
+        "item": -1,
+        "path": "/theme/wedding/wedding10.zip",
+        "musicPath": "/music/love/ViolinConcertoinEmajorRV269Spring-III.Allegro.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/wedding/Wedding day",
+        "translate": {
+          "en": "Nuptial Moment",
+          "zh": "婚姻时刻",
+          "zh-HK": "婚姻時刻"
+        }
+      },
+      {
+        "name": "travel22",
+        "item": -1,
+        "path": "/theme/travel/travel22.zip",
+        "musicPath": "/music/happy/JayJay.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/travel/travel22",
+        "translate": {
+          "en": "Leafy Spring",
+          "zh": "春日绿意",
+          "zh-HK": "春日綠意"
+        }
+      },
+      {
+        "name": "travel14",
+        "item": -1,
+        "path": "/theme/travel/travel14.zip",
+        "musicPath": "/music/travel/Blue_Sky_Over_Hawaii.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/travel/14_travel",
+        "vip": true,
+        "translate": {
+          "en": "Touring Memoirs",
+          "zh": "旅行回忆",
+          "zh-HK": "旅行回憶"
+        }
+      }
+    ],
+    "daily": [
+      {
+        "name": "food8",
+        "item": 1,
+        "path": "/theme/food/food8.zip",
+        "musicPath": "/music/children/SnackTime.mp3",
+        "particle": "FANCY_61",
+        "transitions": "PAG_MG1",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/food/food8",
+        "translate": {
+          "en": "Taste Haven",
+          "zh": "味觉天堂",
+          "zh-HK": "味覺天堂"
+        }
+      },
+      {
+        "name": "food13",
+        "item": 1,
+        "path": "/theme/food/food13.zip",
+        "musicPath": "/music/soft/ConnecttheDots.mp3",
+        "particle": "FANCY_61",
+        "transitions": "SERIES2",
+        "ratio": "3:4",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/food/food13",
+        "translate": {
+          "en": "Food Log",
+          "zh": "美食日志",
+          "zh-HK": "美食日誌"
+        }
+      },
+      {
+        "name": "food16",
+        "item": 1,
+        "path": "/theme/food/food16.zip",
+        "musicPath": "/music/soft/City Sunshine.mp3",
+        "particle": "PAG_PARTICLE5",
+        "transitions": "PAG_INTEREST_COMMON2",
+        "ratio": "3:4",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/food/food16",
+        "vip": true,
+        "translate": {
+          "en": "Food Theater",
+          "zh": "美食剧场",
+          "zh-HK": "美食劇場"
+        }
+      },
+      {
+        "name": "food17",
+        "item": 1,
+        "path": "/theme/food/food17.zip",
+        "musicPath": "/music/general/Everyday.mp3",
+        "particle": "PAG_PARTICLE53",
+        "transitions": "PAG_INTEREST_CAMERA2",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/food/food17",
+        "translate": {
+          "en": "Food Power",
+          "zh": "美食力量",
+          "zh-HK": "美食力量"
+        }
+      },
+      {
+        "name": "food15",
+        "item": 1,
+        "path": "/theme/food/food15.zip",
+        "musicPath": "/music/vlog/just-relax.mp3",
+        "particle": "FANCY_65",
+        "transitions": "FADE_IN,FLASH_WHITE",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/food/food15",
+        "translate": {
+          "en": "Happy \u0026 Tasty",
+          "zh": "快乐美味",
+          "zh-HK": "快樂美味"
+        }
+      },
+      {
+        "name": "food14",
+        "item": 1,
+        "path": "/theme/food/food14.zip",
+        "musicPath": "/music/children/SnackTime.mp3",
+        "particle": "PAG_PARTICLE21",
+        "transitions": "HAHA_MIRROR,WAVE",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/food/food14",
+        "vip": true,
+        "translate": {
+          "en": "Taste Dreams",
+          "zh": "品味梦想",
+          "zh-HK": "品味夢想"
+        }
+      },
+      {
+        "name": "food10",
+        "item": 1,
+        "path": "/theme/food/food10.zip",
+        "musicPath": "/music/general/Everyday.mp3",
+        "particle": "PAG_PARTICLE56",
+        "transitions": "PAG_INTEREST_CAMERA2",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/food/food10",
+        "translate": {
+          "en": "Food Fantasy",
+          "zh": "美食奇遇",
+          "zh-HK": "美食奇遇"
+        }
+      },
+      {
+        "name": "food9",
+        "item": 1,
+        "path": "/theme/food/food9.zip",
+        "musicPath": "/music/beats/in-the-now.mp3",
+        "particle": "FANCY_61",
+        "transitions": "PAG_MG4",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/food/food9",
+        "translate": {
+          "en": "Gourmet Adventure",
+          "zh": "美食历险",
+          "zh-HK": "美食歷險"
+        }
+      },
+      {
+        "name": "food12",
+        "item": 1,
+        "path": "/theme/food/food12.zip",
+        "musicPath": "/music/festival/happy-acoustic.mp3",
+        "particle": "PAG_PARTICLE16",
+        "transitions": "SERIES5",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/food/food12",
+        "translate": {
+          "en": "Food Movie",
+          "zh": "美食电影",
+          "zh-HK": "美食電影"
+        }
+      },
+      {
+        "name": "food11",
+        "item": 1,
+        "path": "/theme/food/food11.zip",
+        "musicPath": "/music/general/positive_happy.mp3",
+        "particle": "FANCY_61",
+        "transitions": "PAG_PEN5",
+        "ratio": "4:3",
+        "previewRatio": "4:3",
+        "previewPath": "/resource_3/food/food11",
+        "translate": {
+          "en": "Cooking Show",
+          "zh": "烹饪节目",
+          "zh-HK": "烹飪節目"
+        }
+      },
+      {
+        "name": "life1",
+        "item": 0,
+        "path": "/theme/life/life1.zip",
+        "musicPath": "/music/beats/Beyond Dreams.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/life/life1",
+        "translate": {
+          "en": "Memory Lane",
+          "zh": "记忆小巷",
+          "zh-HK": "記憶小巷"
+        }
+      },
+      {
+        "name": "life2",
+        "item": 0,
+        "path": "/theme/life/life2.zip",
+        "musicPath": "/music/vlog/just-relax.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/life/life2",
+        "translate": {
+          "en": "Life\u0027s Snapshot",
+          "zh": "生活快照",
+          "zh-HK": "生活快照"
+        }
+      },
+      {
+        "name": "life3",
+        "item": 0,
+        "path": "/theme/life/life3.zip",
+        "musicPath": "/music/dynamic/Sunset.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/life/life3",
+        "vip": true,
+        "translate": {
+          "en": "Living Impress",
+          "zh": "生活印象",
+          "zh-HK": "生活印象"
+        }
+      },
+      {
+        "name": "life4",
+        "item": 0,
+        "path": "/theme/life/life4.zip",
+        "musicPath": "/music/soft/City Sunshine.mp3",
+        "previewRatio": "1:1",
+        "previewPath": "/resource_3/life/life4",
+        "translate": {
+          "en": "Time\u0027s Whispers",
+          "zh": "时间低语",
+          "zh-HK": "時間低語"
+        }
+      },
+      {
+        "name": "life6",
+        "item": 0,
+        "path": "/theme/life/life6.zip",
+        "musicPath": "/music/soft/Higher.mp3",
+        "previewRatio": "1:1",
+        "previewPath": "/resource_3/life/life6",
+        "translate": {
+          "en": "Life\u0027s Symphony",
+          "zh": "生命交响曲",
+          "zh-HK": "生命交響曲"
+        }
+      },
+      {
+        "name": "life7",
+        "item": 0,
+        "path": "/theme/life/life7.zip",
+        "musicPath": "/music/happy/Fun_Day.mp3",
+        "previewRatio": "1:1",
+        "previewPath": "/resource_3/life/life7",
+        "translate": {
+          "en": "Moments Captured",
+          "zh": "精彩瞬间",
+          "zh-HK": "精彩瞬間"
+        }
+      },
+      {
+        "name": "life8",
+        "item": 0,
+        "path": "/theme/life/life8.zip",
+        "musicPath": "/music/dynamic/Sunset.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/life/life8",
+        "translate": {
+          "en": "Life\u0027s Palette",
+          "zh": "生活调色板",
+          "zh-HK": "生活調色板"
+        }
+      },
+      {
+        "name": "life10",
+        "item": 0,
+        "path": "/theme/life/life10.zip",
+        "musicPath": "/music/soft/WalkingStars.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/life/life10",
+        "translate": {
+          "en": "Living Letters",
+          "zh": "生活信件",
+          "zh-HK": "生活信件"
+        }
+      },
+      {
+        "name": "life11",
+        "item": 0,
+        "path": "/theme/life/life11.zip",
+        "musicPath": "/music/soft/City Sunshine.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/life/life11",
+        "translate": {
+          "en": "Life\u0027s Fragments",
+          "zh": "生活碎片",
+          "zh-HK": "生活碎片"
+        }
+      },
+      {
+        "name": "common17",
+        "item": -1,
+        "path": "/theme/common/common17.zip",
+        "musicPath": "/music/soft/Wings.mp3",
+        "previewRatio": "1:1",
+        "previewPath": "/resource_3/common/rainbow",
+        "translate": {
+          "en": "Rainbow Story",
+          "zh": "彩虹物语",
+          "zh-HK": "彩虹物语"
+        }
+      },
+      {
+        "name": "common18",
+        "item": -1,
+        "path": "/theme/common/common18.zip",
+        "musicPath": "/music/happy/Old Time Memories.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/common/funny",
+        "vip": true,
+        "translate": {
+          "en": "Funny Time",
+          "zh": "趣味时光",
+          "zh-HK": "趣味时光"
+        }
+      },
+      {
+        "name": "common19",
+        "item": -1,
+        "path": "/theme/common/common19.zip",
+        "musicPath": "/music/dynamic/Absolutely Uplifting.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/common/star star",
+        "translate": {
+          "en": "Shining Star",
+          "zh": "闪亮之星",
+          "zh-HK": "闪亮之星"
+        }
+      },
+      {
+        "name": "common20",
+        "item": -1,
+        "path": "/theme/common/common20.zip",
+        "musicPath": "/music/soft/City Sunshine.mp3",
+        "previewRatio": "1:1",
+        "previewPath": "/resource_3/common/for you",
+        "translate": {
+          "en": "Only You",
+          "zh": "只有你",
+          "zh-HK": "只有你"
+        }
+      },
+      {
+        "name": "common21",
+        "item": -1,
+        "path": "/theme/common/common21.zip",
+        "musicPath": "/music/soft/TheBluestStar.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/common/my life be like",
+        "translate": {
+          "en": "Show Life",
+          "zh": "展示生活",
+          "zh-HK": "展示生活"
+        }
+      },
+      {
+        "name": "common22",
+        "item": -1,
+        "path": "/theme/common/common22.zip",
+        "musicPath": "/music/soft/Acoustic Summer.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/common/get ready",
+        "translate": {
+          "en": "A New Day",
+          "zh": "新的一天",
+          "zh-HK": "新的一天"
+        }
+      },
+      {
+        "name": "common23",
+        "item": -1,
+        "path": "/theme/common/common23.zip",
+        "musicPath": "/music/dynamic/Runaway.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/common/hello",
+        "translate": {
+          "en": "Meet You",
+          "zh": "遇见你",
+          "zh-HK": "遇見你"
+        }
+      },
+      {
+        "name": "common24",
+        "item": -1,
+        "path": "/theme/common/common24.zip",
+        "musicPath": "/music/soft/Higher.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/common/dream",
+        "translate": {
+          "en": "Have a Dream",
+          "zh": "做个梦",
+          "zh-HK": "做個夢"
+        }
+      },
+      {
+        "name": "common25",
+        "item": -1,
+        "path": "/theme/common/common25.zip",
+        "musicPath": "/music/general/ForAllYouKnow.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/common/luck day",
+        "vip": true,
+        "translate": {
+          "en": "Good Day",
+          "zh": "好日子",
+          "zh-HK": "好日子"
+        }
+      },
+      {
+        "name": "common27",
+        "item": -1,
+        "path": "/theme/common/common27.zip",
+        "musicPath": "/music/dynamic/Add Loudness.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/common/shine",
+        "translate": {
+          "en": "Best You",
+          "zh": "最好的你",
+          "zh-HK": "最好的你"
+        }
+      },
+      {
+        "name": "common28",
+        "item": -1,
+        "path": "/theme/common/common28.zip",
+        "musicPath": "/music/dynamic/Indie Pop.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/common/see my love",
+        "translate": {
+          "en": "Love You",
+          "zh": "爱上",
+          "zh-HK": "愛上"
+        }
+      },
+      {
+        "name": "common29",
+        "item": -1,
+        "path": "/theme/common/common29.zip",
+        "musicPath": "/music/happy/BeHappy.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/common/cute u",
+        "translate": {
+          "en": "You are Cute",
+          "zh": "可爱的你",
+          "zh-HK": "可愛的你"
+        }
+      },
+      {
+        "name": "common30",
+        "item": -1,
+        "path": "/theme/common/common30.zip",
+        "musicPath": "/music/happy/Funshine.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/common/you are sweet",
+        "translate": {
+          "en": "You are Beautiful",
+          "zh": "最美的你",
+          "zh-HK": "最美的你"
+        }
+      },
+      {
+        "name": "common32",
+        "item": -1,
+        "path": "/theme/common/common32.zip",
+        "musicPath": "/music/soft/City Sunshine.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/common/nice one",
+        "translate": {
+          "en": "I\u0027m Perfect",
+          "zh": "完美如我",
+          "zh-HK": "完美如我"
+        }
+      },
+      {
+        "name": "common33",
+        "item": -1,
+        "path": "/theme/common/common33.zip",
+        "musicPath": "/music/dynamic/The Sport Grid - Main.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/common/cheerful day",
+        "translate": {
+          "en": "Happy Time",
+          "zh": "快乐时光",
+          "zh-HK": "快樂時光"
+        }
+      },
+      {
+        "name": "daily14",
+        "item": -1,
+        "path": "/theme/daily/daily14.zip",
+        "musicPath": "/music/soft/Higher.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/daily/daily14",
+        "vip": true,
+        "translate": {
+          "en": "Serene Sunshine",
+          "zh": "静谧阳光",
+          "zh-HK": "靜謐陽光"
+        }
+      },
+      {
+        "name": "daily20",
+        "item": -1,
+        "path": "/theme/daily/daily20.zip",
+        "musicPath": "/music/soft/WalkingStars.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/daily/daily20",
+        "translate": {
+          "en": "Happy Vibes",
+          "zh": "快乐氛围",
+          "zh-HK": "快樂氛圍"
+        }
+      },
+      {
+        "name": "daily15",
+        "item": -1,
+        "path": "/theme/daily/daily15.zip",
+        "musicPath": "/music/festival/happy-holiday.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/daily/daily15",
+        "translate": {
+          "en": "Color Burst",
+          "zh": "色彩爆发",
+          "zh-HK": "色彩爆發"
+        }
+      },
+      {
+        "name": "daily17",
+        "item": -1,
+        "path": "/theme/daily/daily17.zip",
+        "musicPath": "/music/festival/happy-acoustic.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/daily/daily17",
+        "translate": {
+          "en": "Happy Harmony",
+          "zh": "幸福和谐",
+          "zh-HK": "幸福和諧"
+        }
+      },
+      {
+        "name": "daily21",
+        "item": -1,
+        "path": "/theme/daily/daily21.zip",
+        "musicPath": "/music/general/positive_happy.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/daily/daily21",
+        "translate": {
+          "en": "Joyful Chapters",
+          "zh": "欢乐篇章",
+          "zh-HK": "歡樂篇章"
+        }
+      },
+      {
+        "name": "daily16",
+        "item": -1,
+        "path": "/theme/daily/daily16.zip",
+        "musicPath": "/music/soft/Happy Times.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/daily/daily16",
+        "translate": {
+          "en": "Blissful Trails",
+          "zh": "幸福之路",
+          "zh-HK": "幸福之路"
+        }
+      },
+      {
+        "name": "daily18",
+        "item": -1,
+        "path": "/theme/daily/daily18.zip",
+        "musicPath": "/music/happy/Happy Ukulele.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/daily/daily18",
+        "translate": {
+          "en": "Sparkling Life",
+          "zh": "闪耀人生",
+          "zh-HK": "閃耀人生"
+        }
+      },
+      {
+        "name": "daily19",
+        "item": -1,
+        "path": "/theme/daily/daily19.zip",
+        "musicPath": "/music/soft/City Sunshine.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/daily/daily19",
+        "vip": true,
+        "translate": {
+          "en": "Gleam and Glow",
+          "zh": "闪闪发光",
+          "zh-HK": "閃閃發光"
+        }
+      },
+      {
+        "name": "daily11",
+        "item": -1,
+        "path": "/theme/daily/daily11.zip",
+        "musicPath": "/music/general/Everyday.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/daily/daily11",
+        "translate": {
+          "en": "Enchanting Hours",
+          "zh": "迷人时光",
+          "zh-HK": "迷人時光"
+        }
+      },
+      {
+        "name": "daily13",
+        "item": -1,
+        "path": "/theme/daily/daily13.zip",
+        "musicPath": "/music/general/MaybeThisTime.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/daily/daily13",
+        "translate": {
+          "en": "Mirthful Moments",
+          "zh": "欢乐时刻",
+          "zh-HK": "歡樂時刻"
+        }
+      },
+      {
+        "name": "daily12",
+        "item": -1,
+        "path": "/theme/daily/daily12.zip",
+        "musicPath": "/music/soft/Happy Times.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/daily/daily12",
+        "translate": {
+          "en": "Heartfelt Smiles",
+          "zh": "内心微笑",
+          "zh-HK": "內心微笑"
+        }
+      },
+      {
+        "name": "daily5",
+        "item": -1,
+        "path": "/theme/daily/daily5.zip",
+        "musicPath": "/music/beats/password-infinity.mp3",
+        "previewRatio": "1:1",
+        "previewPath": "/resource_3/daily/daily5",
+        "translate": {
+          "en": "Bloom Flowers",
+          "zh": "盛开的花",
+          "zh-HK": "盛開的花"
+        }
+      },
+      {
+        "name": "daily6",
+        "item": -1,
+        "path": "/theme/daily/daily6.zip",
+        "musicPath": "/music/vlog/bossabossa.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/daily/daily6",
+        "translate": {
+          "en": "Meet Rainbow",
+          "zh": "遇见彩虹",
+          "zh-HK": "遇見彩虹"
+        }
+      },
+      {
+        "name": "daily7",
+        "item": -1,
+        "path": "/theme/daily/daily7.zip",
+        "musicPath": "/music/vlog/classic_moment.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/daily/daily7",
+        "translate": {
+          "en": "Happy Day",
+          "zh": "快乐每一天",
+          "zh-HK": "快樂每一天"
+        }
+      },
+      {
+        "name": "daily8",
+        "item": -1,
+        "path": "/theme/daily/daily8.zip",
+        "musicPath": "/music/soft/ConnecttheDots.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/daily/daily8",
+        "vip": true,
+        "translate": {
+          "en": "Dream Life",
+          "zh": "理想生活",
+          "zh-HK": "理想生活"
+        }
+      },
+      {
+        "name": "daily9",
+        "item": -1,
+        "path": "/theme/daily/daily9.zip",
+        "musicPath": "/music/dynamic/campfire.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/daily/daily9",
+        "translate": {
+          "en": "Memorable Time",
+          "zh": "难忘时光",
+          "zh-HK": "難忘時光"
+        }
+      },
+      {
+        "name": "daily10",
+        "item": -1,
+        "path": "/theme/daily/daily10.zip",
+        "musicPath": "/music/children/DancingonGreenGrass.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/daily/daily10",
+        "translate": {
+          "en": "Pet Companion",
+          "zh": "宠物陪伴",
+          "zh-HK": "宠物陪伴"
+        }
+      }
+    ],
+    "valentine": [
+      {
+        "name": "love21",
+        "item": 1,
+        "path": "/theme/love/love21.zip",
+        "musicPath": "/music/love/MyLove.mp3",
+        "particle": "SYSTEM_10",
+        "transitions": "HEART_SHAPE",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/love/love21",
+        "translate": {
+          "en": "Love Memory",
+          "zh": "爱的记忆",
+          "zh-HK": "愛的記憶"
+        }
+      },
+      {
+        "name": "love23",
+        "item": 1,
+        "path": "/theme/love/love23.zip",
+        "musicPath": "/music/love/WeddingDream.mp3",
+        "transitions": "FADE_IN,FLASH_WHITE",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/love/love23",
+        "translate": {
+          "en": "Love Promise",
+          "zh": "爱的承诺",
+          "zh-HK": "愛的承諾"
+        }
+      },
+      {
+        "name": "love26",
+        "item": 1,
+        "path": "/theme/love/love26.zip",
+        "musicPath": "/music/love/FeelsLikeaWeddingDay.mp3",
+        "particle": "LOVE_72",
+        "transitions": "PAG_INTEREST_CAMERA1",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/love/love26",
+        "translate": {
+          "en": "Love Time",
+          "zh": "爱的时间",
+          "zh-HK": "愛的時間"
+        }
+      },
+      {
+        "name": "love25",
+        "item": 1,
+        "path": "/theme/love/love25.zip",
+        "musicPath": "/music/love/MyLove.mp3",
+        "particle": "LOVE_68",
+        "transitions": "PAG_BOOM1",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/love/love25",
+        "vip": true,
+        "translate": {
+          "en": "Love Bloom",
+          "zh": "爱的绽放",
+          "zh-HK": "愛的綻放"
+        }
+      },
+      {
+        "name": "valentine34",
+        "item": 1,
+        "path": "/theme/valentine/valentine34.zip",
+        "musicPath": "/music/love/MyLove.mp3",
+        "particle": "LOVE_76",
+        "transitions": "SERIES12",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/valentine/valentine34",
+        "translate": {
+          "en": "Pure Valentine",
+          "zh": "纯情情人节",
+          "zh-HK": "純情情人節"
+        }
+      },
+      {
+        "name": "valentine35",
+        "item": 1,
+        "path": "/theme/valentine/valentine35.zip",
+        "musicPath": "/music/love/WeddingDream.mp3",
+        "particle": "FANCY_61",
+        "transitions": "SERIES10",
+        "ratio": "3:4",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/valentine/valentine35",
+        "translate": {
+          "en": "Loving Valentine",
+          "zh": "爱恋情人节",
+          "zh-HK": "愛戀情人節"
+        }
+      },
+      {
+        "name": "valentine36",
+        "item": 1,
+        "path": "/theme/valentine/valentine36.zip",
+        "musicPath": "/music/general/MaybeThisTime.mp3",
+        "particle": "SYSTEM_16",
+        "transitions": "PAG_INTEREST_EMOJI2",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/valentine/valentine36",
+        "translate": {
+          "en": "Valentine Lights",
+          "zh": "情人节灯光",
+          "zh-HK": "情人節燈光"
+        }
+      },
+      {
+        "name": "valentine37",
+        "item": 1,
+        "path": "/theme/valentine/valentine37.zip",
+        "musicPath": "/music/general/Everyday.mp3",
+        "particle": "SYSTEM_10",
+        "transitions": "FLASH_WHITE",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/valentine/valentine37",
+        "vip": true,
+        "translate": {
+          "en": "Valentine Cherish",
+          "zh": "情人节珍惜",
+          "zh-HK": "情人節珍惜"
+        }
+      },
+      {
+        "name": "valentine38",
+        "item": 1,
+        "path": "/theme/valentine/valentine38.zip",
+        "musicPath": "/music/love/FeelsLikeaWeddingDay.mp3",
+        "particle": "SYSTEM_10",
+        "transitions": "OVAL_ZOOM,WHOLE_ZOOM,SHADE_PLUS,SHADE_PLUS_RE",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/valentine/valentine38",
+        "translate": {
+          "en": "Valentine Delight",
+          "zh": "情人节喜悦",
+          "zh-HK": "情人節喜悅"
+        }
+      },
+      {
+        "name": "valentine39",
+        "item": 1,
+        "path": "/theme/valentine/valentine39.zip",
+        "musicPath": "/music/love/MyLove.mp3",
+        "particle": "PAG_PARTICLE9",
+        "transitions": "SERIES5",
+        "ratio": "3:4",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/valentine/valentine39",
+        "translate": {
+          "en": "Valentine Moments",
+          "zh": "情人节瞬间",
+          "zh-HK": "情人節瞬間"
+        }
+      },
+      {
+        "name": "valentine40",
+        "item": 1,
+        "path": "/theme/valentine/valentine40.zip",
+        "musicPath": "/music/love/ShiningStars.mp3",
+        "particle": "FANCY_61",
+        "transitions": "BLUR",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/valentine/valentine40",
+        "translate": {
+          "en": "Valentine Hug",
+          "zh": "情人节拥抱",
+          "zh-HK": "情人節擁抱"
+        }
+      },
+      {
+        "name": "valentine41",
+        "item": 1,
+        "path": "/theme/valentine/valentine41.zip",
+        "musicPath": "/music/love/WeddingDream.mp3",
+        "particle": "FANCY_61",
+        "transitions": "CIRCLE_ZOOM,OVAL_ZOOM,HEART_SHAPE",
+        "ratio": "9:16",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/valentine/valentine41",
+        "translate": {
+          "en": "Cherished Love",
+          "zh": "珍惜爱情",
+          "zh-HK": "珍惜愛情"
+        }
+      },
+      {
+        "name": "valentine25",
+        "item": -1,
+        "path": "/theme/valentine/valentine25.zip",
+        "musicPath": "/music/happy/Sunny.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/valentine/valentine25",
+        "translate": {
+          "en": "Memories Of Love",
+          "zh": "爱的记忆",
+          "zh-HK": "愛的記憶"
+        }
+      },
+      {
+        "name": "valentine20",
+        "item": -1,
+        "path": "/theme/valentine/valentine20.zip",
+        "musicPath": "/music/love/wedding-love-story.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/valentine/valentine20",
+        "translate": {
+          "en": "Valentine Sky",
+          "zh": "情人节天空",
+          "zh-HK": "情人節天空"
+        }
+      },
+      {
+        "name": "valentine30",
+        "item": -1,
+        "path": "/theme/valentine/valentine30.zip",
+        "musicPath": "/music/love/MyLove.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/valentine/valentine30",
+        "vip": true,
+        "translate": {
+          "en": "Heartfelt Valentine",
+          "zh": "衷诚情人节",
+          "zh-HK": "衷誠情人節"
+        }
+      },
+      {
+        "name": "valentine23",
+        "item": -1,
+        "path": "/theme/valentine/valentine23.zip",
+        "musicPath": "/music/love/FeelsLikeaWeddingDay.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/valentine/valentine23",
+        "translate": {
+          "en": "Valentine Aura",
+          "zh": "情人节光环",
+          "zh-HK": "情人節光環"
+        }
+      },
+      {
+        "name": "valentine21",
+        "item": -1,
+        "path": "/theme/valentine/valentine21.zip",
+        "musicPath": "/music/love/FirstLove.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/valentine/valentine21",
+        "translate": {
+          "en": "Valentine Treasures",
+          "zh": "情人节宝藏",
+          "zh-HK": "情人節寶藏"
+        }
+      },
+      {
+        "name": "valentine24",
+        "item": -1,
+        "path": "/theme/valentine/valentine24.zip",
+        "musicPath": "/music/happy/Fun_Day.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/valentine/valentine24",
+        "translate": {
+          "en": "Valentine Echoes",
+          "zh": "情人节回声",
+          "zh-HK": "情人節迴聲"
+        }
+      },
+      {
+        "name": "valentine28",
+        "item": -1,
+        "path": "/theme/valentine/valentine28.zip",
+        "musicPath": "/music/love/ShiningStars.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/valentine/valentine28",
+        "vip": true,
+        "translate": {
+          "en": "True Valentine",
+          "zh": "真爱情人节",
+          "zh-HK": "真愛情人節"
+        }
+      },
+      {
+        "name": "valentine26",
+        "item": -1,
+        "path": "/theme/valentine/valentine26.zip",
+        "musicPath": "/music/love/BeautifulInWhite.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/valentine/valentine26",
+        "translate": {
+          "en": "Tender Card",
+          "zh": "温柔贺卡",
+          "zh-HK": "溫柔賀卡"
+        }
+      },
+      {
+        "name": "valentine27",
+        "item": -1,
+        "path": "/theme/valentine/valentine27.zip",
+        "musicPath": "/music/happy/Fun_Day.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/valentine/valentine27",
+        "translate": {
+          "en": "Valentine Town",
+          "zh": "小镇情人节",
+          "zh-HK": "小鎮情人節"
+        }
+      },
+      {
+        "name": "valentine31",
+        "item": -1,
+        "path": "/theme/valentine/valentine31.zip",
+        "musicPath": "/music/love/FeelsLikeaWeddingDay.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/valentine/valentine31",
+        "translate": {
+          "en": "Divine Love",
+          "zh": "神圣的爱",
+          "zh-HK": "神聖的愛"
+        }
+      },
+      {
+        "name": "valentine33",
+        "item": -1,
+        "path": "/theme/valentine/valentine33.zip",
+        "musicPath": "/music/love/wedding-love-story.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/valentine/valentine33",
+        "vip": true,
+        "translate": {
+          "en": "Lovely Valentine",
+          "zh": "可爱情人节",
+          "zh-HK": "可愛情人節"
+        }
+      },
+      {
+        "name": "valentine29",
+        "item": -1,
+        "path": "/theme/valentine/valentine29.zip",
+        "musicPath": "/music/love/WeddingDream.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/valentine/valentine29",
+        "translate": {
+          "en": "Warmth Love",
+          "zh": "温暖的爱",
+          "zh-HK": "溫暖的愛"
+        }
+      },
+      {
+        "name": "valentine32",
+        "item": -1,
+        "path": "/theme/valentine/valentine32.zip",
+        "musicPath": "/music/love/ShiningStars.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/valentine/valentine32",
+        "translate": {
+          "en": "Enchant Valentine",
+          "zh": "迷人情人节",
+          "zh-HK": "迷人情人節"
+        }
+      },
+      {
+        "name": "valentine22",
+        "item": -1,
+        "path": "/theme/valentine/valentine22.zip",
+        "musicPath": "/music/love/ShiningStars.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/valentine/valentine22",
+        "translate": {
+          "en": "Valentine Wings",
+          "zh": "情人节之翼",
+          "zh-HK": "情人節之翼"
+        }
+      },
+      {
+        "name": "valentine10",
+        "item": -1,
+        "path": "/theme/valentine/valentine10_v2.zip",
+        "musicPath": "/music/love/ShiningStars.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/valentine/Fantasy Valentine",
+        "translate": {
+          "en": "Fairytale Valentine",
+          "zh": "童话情人节",
+          "zh-HK": "童話情人節"
+        }
+      },
+      {
+        "name": "valentine11",
+        "item": -1,
+        "path": "/theme/valentine/valentine11_v2.zip",
+        "musicPath": "/music/love/wedding-love-story.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/valentine/Romantic Valentine",
+        "translate": {
+          "en": "Affectionate Valentine",
+          "zh": "深情情人节",
+          "zh-HK": "深情情人節"
+        }
+      },
+      {
+        "name": "valentine12",
+        "item": -1,
+        "path": "/theme/valentine/valentine12_v2.zip",
+        "musicPath": "/music/happy/Fun_Day.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/valentine/Happy Valentine",
+        "translate": {
+          "en": "Cheerful Valentine",
+          "zh": "欢快情人节",
+          "zh-HK": "歡快情人節"
+        }
+      },
+      {
+        "name": "valentine13",
+        "item": -1,
+        "path": "/theme/valentine/valentine13.zip",
+        "musicPath": "/music/love/wedding-love-story.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/valentine/Black Valentine",
+        "translate": {
+          "en": "Shadowy Valentine",
+          "zh": "暗影情人节",
+          "zh-HK": "暗影情人節"
+        }
+      },
+      {
+        "name": "valentine14",
+        "item": -1,
+        "path": "/theme/valentine/valentine14.zip",
+        "musicPath": "/music/love/ShiningStars.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/valentine/Valentine Flower",
+        "translate": {
+          "en": "Romantic Petals",
+          "zh": "浪漫花瓣",
+          "zh-HK": "浪漫花瓣"
+        }
+      },
+      {
+        "name": "valentine15",
+        "item": -1,
+        "path": "/theme/valentine/valentine15_v2.zip",
+        "musicPath": "/music/love/YouRaiseMeUp.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/valentine/Valentine Day",
+        "vip": true,
+        "translate": {
+          "en": "Romance Day",
+          "zh": "浪漫之日",
+          "zh-HK": "浪漫之日"
+        }
+      },
+      {
+        "name": "valentine16",
+        "item": -1,
+        "path": "/theme/valentine/valentine16_v2.zip",
+        "musicPath": "/music/love/cinematic-fairy-tale-story-main.mp3",
+        "previewRatio": "1:1",
+        "previewPath": "/resource_3/valentine/valentine16",
+        "translate": {
+          "en": "Passionate Rose",
+          "zh": "热情玫瑰",
+          "zh-HK": "熱情玫瑰"
+        }
+      },
+      {
+        "name": "valentine17",
+        "item": -1,
+        "path": "/theme/valentine/valentine17.zip",
+        "musicPath": "/music/love/wedding-love-story.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/valentine/valentine17",
+        "translate": {
+          "en": "Love Moments",
+          "zh": "爱的时刻",
+          "zh-HK": "愛的時刻"
+        }
+      },
+      {
+        "name": "valentine19",
+        "item": -1,
+        "path": "/theme/valentine/valentine19.zip",
+        "musicPath": "/music/love/ShiningStars.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/valentine/valentine19",
+        "translate": {
+          "en": "Assurance Of Love",
+          "zh": "爱的保证",
+          "zh-HK": "愛的保證"
+        }
+      },
+      {
+        "name": "love24",
+        "item": 1,
+        "path": "/theme/love/love24.zip",
+        "musicPath": "/music/love/ShiningStars.mp3",
+        "particle": "SYSTEM_10",
+        "transitions": "PAG_HALO3,PAG_HALO4,PAG_HALO5,PAG_HALO6",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/love/love24",
+        "translate": {
+          "en": "Love Bond",
+          "zh": "爱的纽带",
+          "zh-HK": "愛的紐帶"
+        }
+      },
+      {
+        "name": "love22",
+        "item": 1,
+        "path": "/theme/love/love22.zip",
+        "musicPath": "/music/love/FeelsLikeaWeddingDay.mp3",
+        "particle": "LOVE_72",
+        "transitions": "BLUR",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/love/love22",
+        "translate": {
+          "en": "Love Magic",
+          "zh": "爱的魔法",
+          "zh-HK": "愛的魔法"
+        }
+      },
+      {
+        "name": "love17",
+        "item": 1,
+        "path": "/theme/love/love17.zip",
+        "musicPath": "/music/love/WeddingDream.mp3",
+        "particle": "NATURAL_78",
+        "transitions": "SERIES12",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/love/love17",
+        "translate": {
+          "en": "For Love",
+          "zh": "为了爱",
+          "zh-HK": "為了愛"
+        }
+      },
+      {
+        "name": "love20",
+        "item": 1,
+        "path": "/theme/love/love20.zip",
+        "musicPath": "/music/general/Everyday.mp3",
+        "particle": "SYSTEM_10",
+        "transitions": "PAG_SHAPE11",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/love/love20",
+        "vip": true,
+        "translate": {
+          "en": "Love Vibes",
+          "zh": "爱的氛围",
+          "zh-HK": "愛的氛圍"
+        }
+      },
+      {
+        "name": "love19",
+        "item": 1,
+        "path": "/theme/love/love19.zip",
+        "musicPath": "/music/love/ShiningStars.mp3",
+        "particle": "PAG_PARTICLE33",
+        "transitions": "WAVE",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/love/love19",
+        "translate": {
+          "en": "Love Pulse",
+          "zh": "愛情脉搏",
+          "zh-HK": "愛情脉搏"
+        }
+      },
+      {
+        "name": "love18",
+        "item": 1,
+        "path": "/theme/love/love18.zip",
+        "musicPath": "/music/general/MaybeThisTime.mp3",
+        "particle": "LOVE_69",
+        "transitions": "HEART_SHAPE",
+        "previewRatio": "1:1",
+        "previewPath": "/resource_3/love/love18",
+        "translate": {
+          "en": "Simple Love",
+          "zh": "简单的爱",
+          "zh-HK": "簡單的愛"
+        }
+      },
+      {
+        "name": "love5",
+        "item": -1,
+        "path": "/theme/love/love5.zip",
+        "musicPath": "/music/love/cinematic-fairy-tale-story-main.mp3",
+        "previewRatio": "16:9",
+        "previewPath": "/resource_3/love/friendshipday",
+        "vip": true,
+        "translate": {
+          "en": "International Friendship Day",
+          "zh": "国际友谊日",
+          "zh-HK": "國際友誼日"
+        }
+      },
+      {
+        "name": "love6",
+        "item": -1,
+        "path": "/theme/love/love6.zip",
+        "musicPath": "/music/general/HowAboutIt.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/love/teddyday",
+        "translate": {
+          "en": "Love Teddy",
+          "zh": "爱泰迪",
+          "zh-HK": "愛泰迪"
+        }
+      },
+      {
+        "name": "love7",
+        "item": -1,
+        "path": "/theme/love/love7_v2.zip",
+        "musicPath": "/music/love/BeholdtheSun.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/love/lovestory",
+        "translate": {
+          "en": "Love You",
+          "zh": "爱你",
+          "zh-HK": "愛你"
+        }
+      },
+      {
+        "name": "love8",
+        "item": -1,
+        "path": "/theme/love/love8_v2.zip",
+        "musicPath": "/music/love/cinematic-fairy-tale-story-main.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/love/valentine",
+        "translate": {
+          "en": "Day Of Romance",
+          "zh": "浪漫日子",
+          "zh-HK": "浪漫日子"
+        }
+      }
+    ],
+    "travel": [
+      {
+        "name": "travel33",
+        "item": -1,
+        "path": "/theme/travel/travel33.zip",
+        "musicPath": "/music/soft/City Sunshine.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/travel/travel33",
+        "translate": {
+          "en": "Roaming Within",
+          "zh": "漫游其中",
+          "zh-HK": "漫遊其中"
+        }
+      },
+      {
+        "name": "travel34",
+        "item": -1,
+        "path": "/theme/travel/travel34.zip",
+        "musicPath": "/music/soft/ConnecttheDots.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/travel/travel34",
+        "translate": {
+          "en": "Adventure Trail",
+          "zh": "冒险小径",
+          "zh-HK": "冒險小徑"
+        }
+      },
+      {
+        "name": "travel35",
+        "item": -1,
+        "path": "/theme/travel/travel35.zip",
+        "musicPath": "/music/general/positive_happy.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/travel/travel35",
+        "vip": true,
+        "translate": {
+          "en": "Explore Life",
+          "zh": "探索生活",
+          "zh-HK": "探索生活"
+        }
+      },
+      {
+        "name": "travel37",
+        "item": -1,
+        "path": "/theme/travel/travel37.zip",
+        "musicPath": "/music/general/Everyday.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/travel/travel37",
+        "translate": {
+          "en": "Go Travel",
+          "zh": "去旅行",
+          "zh-HK": "去旅行"
+        }
+      },
+      {
+        "name": "travel32",
+        "item": -1,
+        "path": "/theme/travel/travel32.zip",
+        "musicPath": "/music/general/MaybeThisTime.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/travel/travel32",
+        "translate": {
+          "en": "Festival Trek",
+          "zh": "节日徒步",
+          "zh-HK": "節日徒步"
+        }
+      },
+      {
+        "name": "travel30",
+        "item": -1,
+        "path": "/theme/travel/travel30.zip",
+        "musicPath": "/music/soft/City Sunshine.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/travel/travel30",
+        "translate": {
+          "en": "City Expedition",
+          "zh": "城市旅行",
+          "zh-HK": "城市旅行"
+        }
+      },
+      {
+        "name": "travel36",
+        "item": -1,
+        "path": "/theme/travel/travel36.zip",
+        "musicPath": "/music/vlog/just-relax.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/travel/travel36",
+        "translate": {
+          "en": "Journey Joy",
+          "zh": "旅程喜悦",
+          "zh-HK": "旅程喜悅"
+        }
+      },
+      {
+        "name": "travel27",
+        "item": -1,
+        "path": "/theme/travel/travel27.zip",
+        "musicPath": "/music/general/Everyday.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/travel/travel27",
+        "vip": true,
+        "translate": {
+          "en": "World Tourism",
+          "zh": "世界旅游",
+          "zh-HK": "世界旅遊"
+        }
+      },
+      {
+        "name": "travel26",
+        "item": -1,
+        "path": "/theme/travel/travel26.zip",
+        "musicPath": "/music/festival/happy-holiday.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/travel/travel26",
+        "translate": {
+          "en": "Seaside Expedition",
+          "zh": "海滨旅行",
+          "zh-HK": "海濱旅行"
+        }
+      },
+      {
+        "name": "travel31",
+        "item": -1,
+        "path": "/theme/travel/travel31.zip",
+        "musicPath": "/music/beats/Beyond Dreams.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/travel/travel31",
+        "translate": {
+          "en": "Journey Gems",
+          "zh": "宝石之旅",
+          "zh-HK": "寶石之旅"
+        }
+      },
+      {
+        "name": "travel29",
+        "item": -1,
+        "path": "/theme/travel/travel29.zip",
+        "musicPath": "/music/general/positive_happy.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/travel/travel29",
+        "vip": true,
+        "translate": {
+          "en": "Travel Together",
+          "zh": "一起旅行",
+          "zh-HK": "一起旅行"
+        }
+      },
+      {
+        "name": "travel28",
+        "item": -1,
+        "path": "/theme/travel/travel28.zip",
+        "musicPath": "/music/dynamic/Sunset.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/travel/travel28",
+        "translate": {
+          "en": "Travel Postcard",
+          "zh": "旅行明信片",
+          "zh-HK": "旅行明信片"
+        }
+      },
+      {
+        "name": "travel13",
+        "item": -1,
+        "path": "/theme/travel/travel13.zip",
+        "musicPath": "/music/happy/AtTheFair.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/travel/13_CityTravel",
+        "translate": {
+          "en": "City Excursion",
+          "zh": "城市探索",
+          "zh-HK": "城市探索"
+        }
+      },
+      {
+        "name": "travel14",
+        "item": -1,
+        "path": "/theme/travel/travel14.zip",
+        "musicPath": "/music/travel/Blue_Sky_Over_Hawaii.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/travel/14_travel",
+        "vip": true,
+        "translate": {
+          "en": "Touring Memoirs",
+          "zh": "旅行回忆",
+          "zh-HK": "旅行回憶"
+        }
+      },
+      {
+        "name": "travel15",
+        "item": -1,
+        "path": "/theme/travel/travel15.zip",
+        "musicPath": "/music/travel/Blue_Sky_Over_Hawaii.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/travel/travel15",
+        "translate": {
+          "en": "Spring Season",
+          "zh": "踏青时节",
+          "zh-HK": "踏青時節"
+        }
+      },
+      {
+        "name": "travel16",
+        "item": -1,
+        "path": "/theme/travel/travel16.zip",
+        "musicPath": "/music/travel/summer-technology.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/travel/travel16",
+        "translate": {
+          "en": "Spring Blooming",
+          "zh": "春日盛放",
+          "zh-HK": "春日盛放"
+        }
+      },
+      {
+        "name": "travel17",
+        "item": -1,
+        "path": "/theme/travel/travel17.zip",
+        "musicPath": "/music/happy/Ukulele Fun.mp3",
+        "previewRatio": "1:1",
+        "previewPath": "/resource_3/travel/travel17",
+        "translate": {
+          "en": "Pretty Spring",
+          "zh": "精美春天",
+          "zh-HK": "精美春天"
+        }
+      },
+      {
+        "name": "travel18",
+        "item": -1,
+        "path": "/theme/travel/travel18.zip",
+        "musicPath": "/music/travel/ready_for_summer.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/travel/travel18",
+        "translate": {
+          "en": "Pleasant Summer",
+          "zh": "宜人夏日",
+          "zh-HK": "宜人夏日"
+        }
+      },
+      {
+        "name": "travel19",
+        "item": -1,
+        "path": "/theme/travel/travel19.zip",
+        "musicPath": "/music/happy/Sunny.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/travel/travel19",
+        "vip": true,
+        "translate": {
+          "en": "Spring Arrival",
+          "zh": "春天到了",
+          "zh-HK": "春天到了"
+        }
+      },
+      {
+        "name": "travel20",
+        "item": -1,
+        "path": "/theme/travel/travel20.zip",
+        "musicPath": "/music/happy/Sunny_Afternoon.mp3",
+        "previewRatio": "1:1",
+        "previewPath": "/resource_3/travel/travel20",
+        "translate": {
+          "en": "Autumnal Splendor",
+          "zh": "秋日之美",
+          "zh-HK": "秋日之美"
+        }
+      },
+      {
+        "name": "travel21",
+        "item": -1,
+        "path": "/theme/travel/travel21.zip",
+        "musicPath": "/music/travel/Summertime.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/travel/travel21",
+        "translate": {
+          "en": "Spring Welcoming",
+          "zh": "迎接春天",
+          "zh-HK": "迎接春天"
+        }
+      },
+      {
+        "name": "travel22",
+        "item": -1,
+        "path": "/theme/travel/travel22.zip",
+        "musicPath": "/music/happy/JayJay.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/travel/travel22",
+        "translate": {
+          "en": "Leafy Spring",
+          "zh": "春日绿意",
+          "zh-HK": "春日綠意"
+        }
+      },
+      {
+        "name": "travel23",
+        "item": -1,
+        "path": "/theme/travel/travel23.zip",
+        "musicPath": "/music/happy/AtTheFair.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/travel/travel23",
+        "translate": {
+          "en": "Warm Time",
+          "zh": "温暖夏日",
+          "zh-HK": "溫暖夏日"
+        }
+      },
+      {
+        "name": "travel24",
+        "item": -1,
+        "path": "/theme/travel/travel24.zip",
+        "musicPath": "/music/happy/Funshine.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/travel/travel24",
+        "vip": true,
+        "translate": {
+          "en": "Cool Summertime",
+          "zh": "清夏时光",
+          "zh-HK": "清夏時光"
+        }
+      },
+      {
+        "name": "holiday10",
+        "item": -1,
+        "path": "/theme/holiday/holiday10.zip",
+        "musicPath": "/music/happy/SummerSmile.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/Summertime",
+        "translate": {
+          "en": "Hot Summer",
+          "zh": "火热夏天",
+          "zh-HK": "火熱夏天"
+        }
+      },
+      {
+        "name": "holiday11",
+        "item": -1,
+        "path": "/theme/holiday/holiday11.zip",
+        "musicPath": "/music/general/MaybeThisTime.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/Hello winter",
+        "translate": {
+          "en": "Winter Salutation",
+          "zh": "致以冬天",
+          "zh-HK": "致以冬天"
+        }
+      },
+      {
+        "name": "holiday12",
+        "item": -1,
+        "path": "/theme/holiday/holiday12.zip",
+        "musicPath": "/music/general/MaybeThisTime.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/holiday/Winter time",
+        "translate": {
+          "en": "Cold Winter",
+          "zh": "冷酷冬日",
+          "zh-HK": "冷酷冬日"
+        }
+      },
+      {
+        "name": "travel25",
+        "item": -1,
+        "path": "/theme/travel/travel25.zip",
+        "musicPath": "/music/general/BikeRides.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/travel/travel25",
+        "translate": {
+          "en": "Sunny Celebration",
+          "zh": "夏日狂欢",
+          "zh-HK": "夏日狂歡"
+        }
+      }
+    ],
+    "activity": [
+      {
+        "name": "sport17",
+        "item": 1,
+        "path": "/theme/sport/sport17.zip",
+        "musicPath": "/music/beats/A_Difficult_Subject.mp3",
+        "particle": "PAG_PARTICLE17",
+        "transitions": "SERIES3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/sport/sport17",
+        "translate": {
+          "en": "Game On",
+          "zh": "比赛开始",
+          "zh-HK": "比賽開始"
+        }
+      },
+      {
+        "name": "sport14",
+        "item": 1,
+        "path": "/theme/sport/sport14.zip",
+        "musicPath": "/music/beats/A_Difficult_Subject.mp3",
+        "particle": "PAG_PARTICLE17",
+        "transitions": "PAG_MG16",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/sport/sport14",
+        "translate": {
+          "en": "Medal Hunt",
+          "zh": "奖牌争夺",
+          "zh-HK": "獎牌爭奪"
+        }
+      },
+      {
+        "name": "sport15",
+        "item": 1,
+        "path": "/theme/sport/sport15.zip",
+        "musicPath": "/music/dynamic/Sunset.mp3",
+        "particle": "PAG_PARTICLE31",
+        "transitions": "FLASH_BLACK",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/sport/sport15",
+        "vip": true,
+        "translate": {
+          "en": "Champion Moments",
+          "zh": "冠军时刻",
+          "zh-HK": "冠軍時刻"
+        }
+      },
+      {
+        "name": "sport16",
+        "item": 1,
+        "path": "/theme/sport/sport16.zip",
+        "musicPath": "/music/beats/in-the-now.mp3",
+        "particle": "FANCY_61",
+        "transitions": "SERIES1",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/sport/sport16",
+        "translate": {
+          "en": "Winning Spirit",
+          "zh": "胜利精神",
+          "zh-HK": "勝利精神"
+        }
+      },
+      {
+        "name": "sport13",
+        "item": 1,
+        "path": "/theme/sport/sport13.zip",
+        "musicPath": "/music/beats/Upbeat Funk Pop .mp3",
+        "particle": "NATURAL_82",
+        "transitions": "PAG_MG15",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/sport/sport13",
+        "translate": {
+          "en": "Speed Serve",
+          "zh": "快速发球",
+          "zh-HK": "快速發球"
+        }
+      },
+      {
+        "name": "sport18",
+        "item": 1,
+        "path": "/theme/sport/sport18.zip",
+        "musicPath": "/music/dynamic/Sunset.mp3",
+        "particle": "PAG_PARTICLE7",
+        "transitions": "SERIES1",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/sport/sport18",
+        "translate": {
+          "en": "Court Dominance",
+          "zh": "球场统治",
+          "zh-HK": "球場統治"
+        }
+      },
+      {
+        "name": "sport19",
+        "item": 1,
+        "path": "/theme/sport/sport19.zip",
+        "musicPath": "/music/beats/in-the-now.mp3",
+        "particle": "PAG_PARTICLE39",
+        "transitions": "PAG_INTEREST_COMMON2",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/sport/sport19",
+        "vip": true,
+        "translate": {
+          "en": "Move Fast",
+          "zh": "快速移动",
+          "zh-HK": "快速移動"
+        }
+      },
+      {
+        "name": "sport21",
+        "item": 1,
+        "path": "/theme/sport/sport21.zip",
+        "musicPath": "/music/beats/Upbeat Funk Pop .mp3",
+        "transitions": "FLASH_WHITE",
+        "ratio": "9:16",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/sport/sport21",
+        "translate": {
+          "en": "Run To Win",
+          "zh": "奔跑取胜",
+          "zh-HK": "奔跑取勝"
+        }
+      },
+      {
+        "name": "sport20",
+        "item": 1,
+        "path": "/theme/sport/sport20.zip",
+        "musicPath": "/music/dynamic/Sunset.mp3",
+        "particle": "PAG_PARTICLE55",
+        "transitions": "PAG_INTEREST_EMOJI3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/sport/sport20",
+        "translate": {
+          "en": "Header Glory",
+          "zh": "头球荣耀",
+          "zh-HK": "頭球榮耀"
+        }
+      },
+      {
+        "name": "sport6",
+        "item": -1,
+        "path": "/theme/sport/sport6.zip",
+        "musicPath": "/music/beats/in-the-now.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/sport/sport6",
+        "vip": true,
+        "translate": {
+          "en": "Athletic Bliss",
+          "zh": "运动之福",
+          "zh-HK": "運動之福"
+        }
+      },
+      {
+        "name": "sport10",
+        "item": -1,
+        "path": "/theme/sport/sport10.zip",
+        "musicPath": "/music/dynamic/Sunset.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/sport/sport10",
+        "translate": {
+          "en": "Run Joyfully",
+          "zh": "欢乐奔跑",
+          "zh-HK": "歡樂奔跑"
+        }
+      },
+      {
+        "name": "sport9",
+        "item": -1,
+        "path": "/theme/sport/sport9.zip",
+        "musicPath": "/music/beats/in-the-now.mp3",
+        "previewRatio": "1:1",
+        "previewPath": "/resource_3/sport/sport9",
+        "translate": {
+          "en": "Game Harmony",
+          "zh": "比赛和谐",
+          "zh-HK": "比賽和諧"
+        }
+      },
+      {
+        "name": "sport12",
+        "item": -1,
+        "path": "/theme/sport/sport12.zip",
+        "musicPath": "/music/beats/A_Difficult_Subject.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/sport/sport12",
+        "translate": {
+          "en": "Jump Into Fun",
+          "zh": "享受乐趣",
+          "zh-HK": "享受樂趣"
+        }
+      },
+      {
+        "name": "sport11",
+        "item": -1,
+        "path": "/theme/sport/sport11.zip",
+        "musicPath": "/music/beats/Upbeat Funk Pop .mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/sport/sport11",
+        "vip": true,
+        "translate": {
+          "en": "Sporty Spirit",
+          "zh": "运动精神",
+          "zh-HK": "運動精神"
+        }
+      },
+      {
+        "name": "sport7",
+        "item": -1,
+        "path": "/theme/sport/sport7.zip",
+        "musicPath": "/music/beats/A_Difficult_Subject.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/sport/sport7",
+        "translate": {
+          "en": "Sprint Life",
+          "zh": "冲刺人生",
+          "zh-HK": "衝刺人生"
+        }
+      },
+      {
+        "name": "sport5",
+        "item": -1,
+        "path": "/theme/sport/sport5.zip",
+        "musicPath": "/music/dynamic/Sunset.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/sport/sport5",
+        "translate": {
+          "en": "Playful Day",
+          "zh": "欢乐时光",
+          "zh-HK": "歡樂時光"
+        }
+      },
+      {
+        "name": "sport8",
+        "item": -1,
+        "path": "/theme/sport/sport8.zip",
+        "musicPath": "/music/soft/Higher.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/sport/sport8",
+        "translate": {
+          "en": "Fitness Beat",
+          "zh": "健身韵律",
+          "zh-HK": "健身韻律"
+        }
+      },
+      {
+        "name": "sport2",
+        "item": -1,
+        "path": "/theme/sport/sport2.zip",
+        "musicPath": "/music/beats/in-the-now.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/sport/sport2",
+        "translate": {
+          "en": "Like a Marathon",
+          "zh": "就像马拉松",
+          "zh-HK": "就像馬拉松"
+        }
+      },
+      {
+        "name": "sport4",
+        "item": -1,
+        "path": "/theme/sport/sport4.zip",
+        "musicPath": "/music/beats/in-the-now.mp3",
+        "previewRatio": "1:1",
+        "previewPath": "/resource_3/sport/sport4",
+        "translate": {
+          "en": "Fit Together",
+          "zh": "共同健身",
+          "zh-HK": "共同健身"
+        }
+      },
+      {
+        "name": "sport3",
+        "item": -1,
+        "path": "/theme/sport/sport3.zip",
+        "musicPath": "/music/beats/Upbeat Funk Pop .mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/sport/sport3",
+        "vip": true,
+        "translate": {
+          "en": "Sportive Life",
+          "zh": "运动生活",
+          "zh-HK": "運動生活"
+        }
+      },
+      {
+        "name": "sport1",
+        "item": -1,
+        "path": "/theme/sport/sport1.zip",
+        "musicPath": "/music/beats/Upbeat Funk Pop .mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/sport/sport1",
+        "translate": {
+          "en": "Football Game",
+          "zh": "足球比赛",
+          "zh-HK": "足球比賽"
+        }
+      },
+      {
+        "name": "sport0",
+        "item": -1,
+        "path": "/theme/sport/sport0.zip",
+        "musicPath": "/music/beats/A_Difficult_Subject.mp3",
+        "previewRatio": "1:1",
+        "previewPath": "/resource_3/sport/sport0",
+        "translate": {
+          "en": "Start to Exercise",
+          "zh": "开始运动",
+          "zh-HK": "開始運動"
+        }
+      }
+    ],
+    "birthday": [
+      {
+        "name": "birthday10",
+        "item": -1,
+        "path": "/theme/birthday/birthday10_v250.zip",
+        "musicPath": "/music/birthday/BirthdaySong.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/birthday/birthday night",
+        "translate": {
+          "en": "Birthday Eve",
+          "zh": "生日的夜",
+          "zh-HK": "生日的夜"
+        }
+      },
+      {
+        "name": "birthday11",
+        "item": -1,
+        "path": "/theme/birthday/birthday11_v2.zip",
+        "musicPath": "/music/birthday/HappyBirthdayMusic.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/birthday/birthday card",
+        "vip": true,
+        "translate": {
+          "en": "Birthday Montage",
+          "zh": "生日剪辑",
+          "zh-HK": "生日剪輯"
+        }
+      },
+      {
+        "name": "birthday12",
+        "item": -1,
+        "path": "/theme/birthday/birthday12_v2.zip",
+        "musicPath": "/music/birthday/HappyBirthdayPiano.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/birthday/birthday ribbon",
+        "vip": true,
+        "translate": {
+          "en": "Bow-Tied Birthday",
+          "zh": "生日蝴蝶结",
+          "zh-HK": "生日蝴蝶結"
+        }
+      },
+      {
+        "name": "birthday13",
+        "item": -1,
+        "path": "/theme/birthday/birthday13_v135.zip",
+        "musicPath": "/music/birthday/BirthdaySong.mp3",
+        "previewRatio": "1:1",
+        "previewPath": "/resource_3/birthday/birthday party",
+        "translate": {
+          "en": "Birthday Memories",
+          "zh": "生日回忆",
+          "zh-HK": "生日回憶"
+        }
+      },
+      {
+        "name": "birthday14",
+        "item": -1,
+        "path": "/theme/birthday/birthday14_v2.zip",
+        "musicPath": "/music/birthday/HappyBirthdayMusic.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/birthday/cute cake day",
+        "translate": {
+          "en": "Fantasy Cake Day",
+          "zh": "梦幻蛋糕日",
+          "zh-HK": "夢幻蛋糕日"
+        }
+      },
+      {
+        "name": "birthday15",
+        "item": -1,
+        "path": "/theme/birthday/birthday15.zip",
+        "musicPath": "/music/birthday/HappyBirthdayPiano.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/birthday/birthday love",
+        "translate": {
+          "en": "Fairytale Birthday",
+          "zh": "生日童话",
+          "zh-HK": "生日童話"
+        }
+      },
+      {
+        "name": "birthday16",
+        "item": -1,
+        "path": "/theme/birthday/birthday16.zip",
+        "musicPath": "/music/birthday/BirthdaySong.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/birthday/happy birthday",
+        "translate": {
+          "en": "Cheerful Birthday",
+          "zh": "欢快生日",
+          "zh-HK": "歡快生日"
+        }
+      },
+      {
+        "name": "birthday17",
+        "item": -1,
+        "path": "/theme/birthday/birthday17.zip",
+        "musicPath": "/music/birthday/HappyBirthdayMusic.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/birthday/birthday sunflower",
+        "vip": true,
+        "translate": {
+          "en": "Birthday Gift",
+          "zh": "生日礼物",
+          "zh-HK": "生日禮物"
+        }
+      },
+      {
+        "name": "birthday18",
+        "item": -1,
+        "path": "/theme/birthday/birthday18.zip",
+        "musicPath": "/music/birthday/HappyBirthdayPiano.mp3",
+        "previewRatio": "1:1",
+        "previewPath": "/resource_3/birthday/birthday stamp",
+        "translate": {
+          "en": "Birthday Hat",
+          "zh": "生日礼帽",
+          "zh-HK": "生日禮帽"
+        }
+      },
+      {
+        "name": "birthday19",
+        "item": -1,
+        "path": "/theme/birthday/birthday19.zip",
+        "musicPath": "/music/birthday/BirthdaySong.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/birthday/birthday balloon",
+        "translate": {
+          "en": "Birthday Pictureshow",
+          "zh": "生日图片",
+          "zh-HK": "生日圖片"
+        }
+      }
+    ],
+    "baby": [
+      {
+        "name": "baby14",
+        "item": -1,
+        "path": "/theme/baby/baby14.zip",
+        "musicPath": "/music/general/Everyday.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/baby/baby14",
+        "vip": true,
+        "translate": {
+          "en": "Darling Baby",
+          "zh": "亲爱宝贝",
+          "zh-HK": "親愛寶貝"
+        }
+      },
+      {
+        "name": "baby20",
+        "item": -1,
+        "path": "/theme/baby/baby20.zip",
+        "musicPath": "/music/children/RainyDayGames.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/baby/baby20",
+        "translate": {
+          "en": "Baby Dream",
+          "zh": "宝宝梦",
+          "zh-HK": "寶寶夢"
+        }
+      },
+      {
+        "name": "baby21",
+        "item": -1,
+        "path": "/theme/baby/baby21.zip",
+        "musicPath": "/music/children/SplashingAround.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/baby/baby21",
+        "translate": {
+          "en": "Plane Baby",
+          "zh": "飞行宝宝",
+          "zh-HK": "飛行寶寶"
+        }
+      },
+      {
+        "name": "baby15",
+        "item": -1,
+        "path": "/theme/baby/baby15.zip",
+        "musicPath": "/music/children/RainyDayGames.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/baby/baby15",
+        "vip": true,
+        "translate": {
+          "en": "Baby Snuggles",
+          "zh": "婴儿依偎",
+          "zh-HK": "嬰兒依偎"
+        }
+      },
+      {
+        "name": "baby16",
+        "item": -1,
+        "path": "/theme/baby/baby16.zip",
+        "musicPath": "/music/children/SnackTime.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/baby/baby16",
+        "translate": {
+          "en": "Baby Days",
+          "zh": "婴儿日",
+          "zh-HK": "嬰兒日"
+        }
+      },
+      {
+        "name": "baby11",
+        "item": -1,
+        "path": "/theme/baby/baby11.zip",
+        "musicPath": "/music/vlog/just-relax.mp3",
+        "previewRatio": "1:1",
+        "previewPath": "/resource_3/baby/baby11",
+        "translate": {
+          "en": "Baby Wonderland",
+          "zh": "宝贝仙境",
+          "zh-HK": "寶貝仙境"
+        }
+      },
+      {
+        "name": "baby12",
+        "item": -1,
+        "path": "/theme/baby/baby12.zip",
+        "musicPath": "/music/love/MyLove.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/baby/baby12",
+        "translate": {
+          "en": "Baby Magic",
+          "zh": "魔法宝贝",
+          "zh-HK": "魔法寶貝"
+        }
+      },
+      {
+        "name": "baby10",
+        "item": -1,
+        "path": "/theme/baby/baby10.zip",
+        "musicPath": "/music/children/RainyDayGames.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/baby/baby10",
+        "vip": true,
+        "translate": {
+          "en": "Baby Bubbles",
+          "zh": "婴儿泡泡",
+          "zh-HK": "嬰兒泡泡"
+        }
+      },
+      {
+        "name": "baby13",
+        "item": -1,
+        "path": "/theme/baby/baby13.zip",
+        "musicPath": "/music/children/RainyDayGames.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/baby/baby13",
+        "translate": {
+          "en": "Baby Adventures",
+          "zh": "宝宝冒险",
+          "zh-HK": "寶寶冒險"
+        }
+      },
+      {
+        "name": "baby17",
+        "item": -1,
+        "path": "/theme/baby/baby17.zip",
+        "musicPath": "/music/soft/Happy Times.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/baby/baby17",
+        "translate": {
+          "en": "Baby Shower",
+          "zh": "宝宝浴",
+          "zh-HK": "寶寶浴"
+        }
+      },
+      {
+        "name": "baby18",
+        "item": -1,
+        "path": "/theme/baby/baby18.zip",
+        "musicPath": "/music/beats/in-the-now.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/baby/baby18",
+        "translate": {
+          "en": "Baby Laughs",
+          "zh": "宝宝笑了",
+          "zh-HK": "寶寶笑了"
+        }
+      },
+      {
+        "name": "baby19",
+        "item": -1,
+        "path": "/theme/baby/baby19.zip",
+        "musicPath": "/music/children/DancingonGreenGrass.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/baby/baby19",
+        "translate": {
+          "en": "Bright Baby",
+          "zh": "闪亮宝贝",
+          "zh-HK": "閃亮寶貝"
+        }
+      },
+      {
+        "name": "baby4",
+        "item": -1,
+        "path": "/theme/baby/baby4_v2.zip",
+        "musicPath": "/music/children/Mr.Turtle.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/baby/Star Baby",
+        "vip": true,
+        "translate": {
+          "en": "Cloud Baby",
+          "zh": "云朵宝宝",
+          "zh-HK": "雲朵寶寶"
+        }
+      },
+      {
+        "name": "baby5",
+        "item": -1,
+        "path": "/theme/baby/baby5_v2.zip",
+        "musicPath": "/music/children/DancingonGreenGrass.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/baby/Bulloon Baby",
+        "translate": {
+          "en": "Happy Baby",
+          "zh": "开心宝宝",
+          "zh-HK": "開心寶寶"
+        }
+      },
+      {
+        "name": "baby6",
+        "item": -1,
+        "path": "/theme/baby/baby6_v2.zip",
+        "musicPath": "/music/children/Mr.Turtle.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/baby/Teddy Baby",
+        "translate": {
+          "en": "Joyful Baby",
+          "zh": "欢乐宝宝",
+          "zh-HK": "歡樂寶寶"
+        }
+      },
+      {
+        "name": "baby7",
+        "item": -1,
+        "path": "/theme/baby/baby7_v135.zip",
+        "musicPath": "/music/children/DancingonGreenGrass.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/baby/Car Baby",
+        "translate": {
+          "en": "Enchanting Baby",
+          "zh": "迷人宝宝",
+          "zh-HK": "迷人寶寶"
+        }
+      },
+      {
+        "name": "baby9",
+        "item": -1,
+        "path": "/theme/baby/baby9.zip",
+        "musicPath": "/music/soft/ConnecttheDots.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/baby/baby9",
+        "translate": {
+          "en": "Angelic Smile",
+          "zh": "天使微笑",
+          "zh-HK": "天使微笑"
+        }
+      },
+      {
+        "name": "baby8",
+        "item": -1,
+        "path": "/theme/baby/baby8.zip",
+        "musicPath": "/music/children/RainyDayGames.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/baby/baby8",
+        "vip": true,
+        "translate": {
+          "en": "Baby Choir",
+          "zh": "宝宝合唱团",
+          "zh-HK": "寶寶合唱團"
+        }
+      }
+    ],
+    "wedding": [
+      {
+        "name": "wedding24",
+        "item": 1,
+        "path": "/theme/wedding/wedding24.zip",
+        "musicPath": "/music/love/ShiningStars.mp3",
+        "particle": "PAG_PARTICLE6",
+        "transitions": "MOVE_PUSH_R",
+        "ratio": "9:16",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/wedding/wedding24",
+        "vip": true,
+        "translate": {
+          "en": "Wedding Harmony",
+          "zh": "婚礼和谐",
+          "zh-HK": "婚禮和諧"
+        }
+      },
+      {
+        "name": "wedding23",
+        "item": 1,
+        "path": "/theme/wedding/wedding23.zip",
+        "musicPath": "/music/love/MyLove.mp3",
+        "particle": "PAG_PARTICLE35",
+        "transitions": "SERIES3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/wedding/wedding23",
+        "translate": {
+          "en": "Forever Love",
+          "zh": "永恒的爱",
+          "zh-HK": "永恆的愛"
+        }
+      },
+      {
+        "name": "wedding27",
+        "item": 1,
+        "path": "/theme/wedding/wedding27.zip",
+        "musicPath": "/music/love/WeddingDream.mp3",
+        "particle": "PAG_PARTICLE1",
+        "transitions": "PAG_BOOM1",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/wedding/wedding27",
+        "translate": {
+          "en": "Wedding Fantasy",
+          "zh": "婚礼幻想",
+          "zh-HK": "婚禮幻想"
+        }
+      },
+      {
+        "name": "wedding26",
+        "item": 1,
+        "path": "/theme/wedding/wedding26.zip",
+        "musicPath": "/music/love/ShiningStars.mp3",
+        "particle": "NATURAL_80",
+        "transitions": "FLASH_WHITE",
+        "previewRatio": "1:1",
+        "previewPath": "/resource_3/wedding/wedding26",
+        "translate": {
+          "en": "Loving Union",
+          "zh": "爱情结合",
+          "zh-HK": "愛情結合"
+        }
+      },
+      {
+        "name": "wedding19",
+        "item": 1,
+        "path": "/theme/wedding/wedding19.zip",
+        "musicPath": "/music/love/WeddingDream.mp3",
+        "particle": "NATURAL_78",
+        "transitions": "PAG_PARTICLE2",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/wedding/wedding19",
+        "translate": {
+          "en": "Matrimony Magic",
+          "zh": "婚姻魔法",
+          "zh-HK": "婚姻魔法"
+        }
+      },
+      {
+        "name": "wedding18",
+        "item": 1,
+        "path": "/theme/wedding/wedding18.zip",
+        "musicPath": "/music/love/MyLove.mp3",
+        "particle": "SYSTEM_20",
+        "transitions": "SERIES12",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/wedding/wedding18",
+        "vip": true,
+        "translate": {
+          "en": "Sacred Union",
+          "zh": "神圣结合",
+          "zh-HK": "神聖結合"
+        }
+      },
+      {
+        "name": "wedding25",
+        "item": 1,
+        "path": "/theme/wedding/wedding25.zip",
+        "musicPath": "/music/love/WeddingDream.mp3",
+        "particle": "PAG_PARTICLE21",
+        "transitions": "FADE_IN",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/wedding/wedding25",
+        "translate": {
+          "en": "Wedding Cheers",
+          "zh": "婚礼欢呼",
+          "zh-HK": "婚禮歡呼"
+        }
+      },
+      {
+        "name": "wedding22",
+        "item": 1,
+        "path": "/theme/wedding/wedding22.zip",
+        "musicPath": "/music/love/FeelsLikeaWeddingDay.mp3",
+        "particle": "SYSTEM_10",
+        "transitions": "HEART_SHAPE",
+        "ratio": "3:4",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/wedding/wedding22",
+        "translate": {
+          "en": "Love Story",
+          "zh": "爱情故事",
+          "zh-HK": "愛情故事"
+        }
+      },
+      {
+        "name": "wedding21",
+        "item": 1,
+        "path": "/theme/wedding/wedding21.zip",
+        "musicPath": "/music/love/ShiningStars.mp3",
+        "particle": "NATURAL_94",
+        "transitions": "PAG_SHAPE13",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/wedding/wedding21",
+        "translate": {
+          "en": "Wedded Bliss",
+          "zh": "婚姻幸福",
+          "zh-HK": "婚姻幸福"
+        }
+      },
+      {
+        "name": "wedding20",
+        "item": 1,
+        "path": "/theme/wedding/wedding20.zip",
+        "musicPath": "/music/love/FeelsLikeaWeddingDay.mp3",
+        "particle": "NATURAL_93",
+        "transitions": "WAVE",
+        "ratio": "9:16",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/wedding/wedding20",
+        "translate": {
+          "en": "Wedding Dreams",
+          "zh": "婚礼梦想",
+          "zh-HK": "婚禮夢想"
+        }
+      },
+      {
+        "name": "wedding6",
+        "item": -1,
+        "path": "/theme/wedding/wedding6_v2.zip",
+        "musicPath": "/music/love/WeddingDream.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/wedding/Wedding time",
+        "translate": {
+          "en": "Wedding Celebration",
+          "zh": "婚礼庆典",
+          "zh-HK": "婚禮慶典"
+        }
+      },
+      {
+        "name": "wedding7",
+        "item": -1,
+        "path": "/theme/wedding/wedding7_v2.zip",
+        "musicPath": "/music/love/ViolinConcertoinEmajorRV269Spring-III.Allegro.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/wedding/Happy wedding",
+        "vip": true,
+        "translate": {
+          "en": "Merry Marriage",
+          "zh": "欢乐新婚",
+          "zh-HK": "歡樂新婚"
+        }
+      },
+      {
+        "name": "wedding8",
+        "item": -1,
+        "path": "/theme/wedding/wedding8_v2.zip",
+        "musicPath": "/music/soft/WalkingStars.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/wedding/Wedding slide",
+        "translate": {
+          "en": "Wedding Pictureshow",
+          "zh": "婚礼图片展",
+          "zh-HK": "婚禮圖片展"
+        }
+      },
+      {
+        "name": "wedding9",
+        "item": -1,
+        "path": "/theme/wedding/wedding9.zip",
+        "musicPath": "/music/love/WeddingDream.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/wedding/Wedding love",
+        "translate": {
+          "en": "Wedding Romance",
+          "zh": "婚礼浪漫",
+          "zh-HK": "婚禮浪漫"
+        }
+      },
+      {
+        "name": "wedding10",
+        "item": -1,
+        "path": "/theme/wedding/wedding10.zip",
+        "musicPath": "/music/love/ViolinConcertoinEmajorRV269Spring-III.Allegro.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/wedding/Wedding day",
+        "translate": {
+          "en": "Nuptial Moment",
+          "zh": "婚姻时刻",
+          "zh-HK": "婚姻時刻"
+        }
+      }
+    ],
+    "holiday": [
+      {
+        "name": "motherday28",
+        "item": 1,
+        "path": "/theme/holiday/motherday28.zip",
+        "musicPath": "/music/beats/Beyond Dreams.mp3",
+        "particle": "SYSTEM_10",
+        "transitions": "HEART_SHAPE",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/motherday28",
+        "translate": {
+          "zh-HK": "母愛的喜悅",
+          "en": "Mother Joy",
+          "zh": "母爱的喜悦"
+        }
+      },
+      {
+        "name": "motherday35",
+        "item": 1,
+        "path": "/theme/holiday/motherday35.zip",
+        "musicPath": "/music/vlog/just-relax.mp3",
+        "particle": "PAG_PARTICLE32",
+        "transitions": "PAG_COLOR_HEART",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/holiday/motherday35",
+        "translate": {
+          "zh-HK": "甜蜜的媽媽",
+          "en": "Sweet Mom",
+          "zh": "甜蜜的妈妈"
+        }
+      },
+      {
+        "name": "motherday32",
+        "item": 1,
+        "path": "/theme/holiday/motherday32.zip",
+        "musicPath": "/music/vlog/just-relax.mp3",
+        "particle": "SYSTEM_10",
+        "transitions": "BLUR",
+        "ratio": "9:16",
+        "previewRatio": "9:16",
+        "vip": true,
+        "previewPath": "/resource_3/holiday/motherday32",
+        "translate": {
+          "zh-HK": "媽媽的光輝",
+          "en": "Mother’s Glow",
+          "zh": "妈妈的光辉"
+        }
+      },
+      {
+        "name": "motherday34",
+        "item": 1,
+        "path": "/theme/holiday/motherday34.zip",
+        "musicPath": "/music/love/MyLove.mp3",
+        "particle": "LOVE_72",
+        "transitions": "HEART_SHAPE",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/motherday34",
+        "translate": {
+          "zh-HK": "媽媽的時刻",
+          "en": "Mother’s Moment",
+          "zh": "妈妈的时刻"
+        }
+      },
+      {
+        "name": "motherday31",
+        "item": 1,
+        "path": "/theme/holiday/motherday31.zip",
+        "musicPath": "/music/love/YouRaiseMeUp.mp3",
+        "particle": "NATURAL_97",
+        "transitions": "SQUARE_TWINKLE",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/motherday31",
+        "translate": {
+          "zh-HK": "幸福的媽媽",
+          "en": "Happy Mom",
+          "zh": "幸福的妈妈"
+        }
+      },
+      {
+        "name": "motherday33",
+        "item": 1,
+        "path": "/theme/holiday/motherday33.zip",
+        "musicPath": "/music/children/RainyDayGames.mp3",
+        "particle": "PAG_PARTICLE1",
+        "transitions": "READ_BOOK",
+        "ratio": "9:16",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/motherday33",
+        "translate": {
+          "zh-HK": "媽媽的夢想",
+          "en": "Mom\u0027s Dream",
+          "zh": "妈妈的梦想"
+        }
+      },
+      {
+        "name": "motherday29",
+        "item": 1,
+        "path": "/theme/holiday/motherday29.zip",
+        "musicPath": "/music/soft/City Sunshine.mp3",
+        "particle": "FANCY_61",
+        "transitions": "PAG_SHAPE11",
+        "previewRatio": "9:16",
+        "vip": true,
+        "previewPath": "/resource_3/holiday/motherday29",
+        "translate": {
+          "zh-HK": "媽媽的魔力",
+          "en": "Mom Magic",
+          "zh": "妈妈的魔力"
+        }
+      },
+      {
+        "name": "motherday16",
+        "item": -1,
+        "path": "/theme/holiday/motherday16.zip",
+        "musicPath": "/music/love/MyLove.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/holiday/motherday16",
+        "translate": {
+          "en": "Mom\u0027s Flower",
+          "zh": "妈妈的鲜花",
+          "zh-HK": "媽媽的花"
+        }
+      },
+      {
+        "name": "motherday17",
+        "item": -1,
+        "path": "/theme/holiday/motherday17.zip",
+        "musicPath": "/music/vlog/just-relax.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/motherday17",
+        "translate": {
+          "en": "Mom\u0027s Hug",
+          "zh": "妈妈的拥抱",
+          "zh-HK": "媽媽的擁抱"
+        }
+      },
+      {
+        "name": "motherday6",
+        "item": -1,
+        "path": "/theme/holiday/motherday6.zip",
+        "musicPath": "/music/soft/Higher.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/motherday6",
+        "translate": {
+          "en": "Mother\u0027s Pride",
+          "zh": "母亲的骄傲",
+          "zh-HK": "母親的驕傲"
+        }
+      },
+      {
+        "name": "motherday22",
+        "item": -1,
+        "path": "/theme/holiday/motherday22.zip",
+        "musicPath": "/music/general/positive_happy.mp3",
+        "previewRatio": "9:16",
+        "vip": true,
+        "previewPath": "/resource_3/holiday/motherday22",
+        "translate": {
+          "en": "Mom\u0027s Smile",
+          "zh": "妈妈的微笑",
+          "zh-HK": "媽媽的微笑"
+        }
+      },
+      {
+        "name": "motherday7",
+        "item": -1,
+        "path": "/theme/holiday/motherday7.zip",
+        "musicPath": "/music/happy/Happy Ukulele.mp3",
+        "previewRatio": "1:1",
+        "previewPath": "/resource_3/holiday/motherday7",
+        "translate": {
+          "en": "Mom‘s Album",
+          "zh": "妈妈的相册",
+          "zh-HK": "媽媽的相簿"
+        }
+      },
+      {
+        "name": "motherday10",
+        "item": -1,
+        "path": "/theme/holiday/motherday10.zip",
+        "musicPath": "/music/beats/Beyond Dreams.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/motherday10",
+        "translate": {
+          "en": "Dearly Loved Mom",
+          "zh": "深爱的妈妈",
+          "zh-HK": "深愛的媽媽"
+        }
+      },
+      {
+        "name": "motherday21",
+        "item": -1,
+        "path": "/theme/holiday/motherday21.zip",
+        "musicPath": "/music/soft/WalkingStars.mp3",
+        "previewRatio": "4:3",
+        "previewPath": "/resource_3/holiday/motherday21",
+        "translate": {
+          "en": "Mom\u0027s Heart",
+          "zh": "妈妈的心",
+          "zh-HK": "媽媽的心"
+        }
+      },
+      {
+        "name": "motherday14",
+        "item": -1,
+        "path": "/theme/holiday/motherday14.zip",
+        "musicPath": "/music/vlog/just-relax.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/motherday14",
+        "translate": {
+          "en": "Thanksgiving Mom",
+          "zh": "感恩母亲",
+          "zh-HK": "感恩母親"
+        }
+      },
+      {
+        "name": "motherday11",
+        "item": -1,
+        "path": "/theme/holiday/motherday11.zip",
+        "musicPath": "/music/soft/City Sunshine.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/motherday11",
+        "translate": {
+          "en": "Mom\u0027s Warmth",
+          "zh": "妈妈的温暖",
+          "zh-HK": "媽媽的溫暖"
+        }
+      },
+      {
+        "name": "motherday12",
+        "item": -1,
+        "path": "/theme/holiday/motherday12.zip",
+        "musicPath": "/music/soft/Happy Times.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/motherday12",
+        "translate": {
+          "en": "Lovely Mom",
+          "zh": "可爱的妈妈",
+          "zh-HK": "可愛的媽媽"
+        }
+      },
+      {
+        "name": "motherday8",
+        "item": -1,
+        "path": "/theme/holiday/motherday8.zip",
+        "musicPath": "/music/general/Everyday.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/holiday/motherday8",
+        "translate": {
+          "en": "Love You Mommy",
+          "zh": "妈妈，我爱你",
+          "zh-HK": "媽媽，我愛你"
+        }
+      },
+      {
+        "name": "motherday9",
+        "item": -1,
+        "path": "/theme/holiday/motherday9.zip",
+        "musicPath": "/music/general/positive_happy.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/motherday9",
+        "translate": {
+          "en": "Happy Mothers\u0027 Day",
+          "zh": "快乐母亲节",
+          "zh-HK": "快樂母親節"
+        }
+      },
+      {
+        "name": "motherday20",
+        "item": -1,
+        "path": "/theme/holiday/motherday20.zip",
+        "musicPath": "/music/general/Everyday.mp3",
+        "previewRatio": "1:1",
+        "previewPath": "/resource_3/holiday/motherday20",
+        "translate": {
+          "en": "Mother\u0027s Care",
+          "zh": "母亲的关怀",
+          "zh-HK": "母親的關懷"
+        }
+      },
+      {
+        "name": "motherday19",
+        "item": -1,
+        "path": "/theme/holiday/motherday19.zip",
+        "musicPath": "/music/happy/Fun_Day.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/motherday19",
+        "translate": {
+          "en": "Mom\u0027s Joy",
+          "zh": "妈妈的喜悦",
+          "zh-HK": "媽媽的喜悅"
+        }
+      },
+      {
+        "name": "motherday27",
+        "item": -1,
+        "path": "/theme/holiday/motherday27.zip",
+        "musicPath": "/music/festival/happy-holiday.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/motherday27",
+        "translate": {
+          "en": "Selfless Sacrifice",
+          "zh": "无私牺牲",
+          "zh-HK": "無私犧牲"
+        }
+      },
+      {
+        "name": "motherday13",
+        "item": -1,
+        "path": "/theme/holiday/motherday13.zip",
+        "musicPath": "/music/love/YouRaiseMeUp.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/holiday/motherday13",
+        "translate": {
+          "en": "Greatest Mom",
+          "zh": "伟大的妈妈",
+          "zh-HK": "偉大的媽媽"
+        }
+      },
+      {
+        "name": "motherday15",
+        "item": -1,
+        "path": "/theme/holiday/motherday15.zip",
+        "musicPath": "/music/children/RainyDayGames.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/motherday15",
+        "translate": {
+          "en": "Mother\u0027s Love",
+          "zh": "母亲的爱",
+          "zh-HK": "母親的愛"
+        }
+      },
+      {
+        "name": "motherday23",
+        "item": -1,
+        "path": "/theme/holiday/motherday23.zip",
+        "musicPath": "/music/soft/City Sunshine.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/motherday23",
+        "translate": {
+          "en": "Radiant Mom",
+          "zh": "灿烂的妈妈",
+          "zh-HK": "燦爛的媽媽"
+        }
+      },
+      {
+        "name": "motherday24",
+        "item": -1,
+        "path": "/theme/holiday/motherday24.zip",
+        "musicPath": "/music/soft/Higher.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/holiday/motherday24",
+        "translate": {
+          "en": "The Best Mom",
+          "zh": "最棒的妈妈",
+          "zh-HK": "最棒的媽媽"
+        }
+      },
+      {
+        "name": "motherday25",
+        "item": -1,
+        "path": "/theme/holiday/motherday25.zip",
+        "musicPath": "/music/children/RainyDayGames.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/holiday/motherday25",
+        "translate": {
+          "en": "Loving Kindness",
+          "zh": "慈爱",
+          "zh-HK": "慈愛"
+        }
+      },
+      {
+        "name": "motherday26",
+        "item": -1,
+        "path": "/theme/holiday/motherday26.zip",
+        "musicPath": "/music/love/MyLove.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/holiday/motherday26",
+        "translate": {
+          "en": "Infinite Love",
+          "zh": "无限的爱",
+          "zh-HK": "無限的愛"
+        }
+      },
+      {
+        "name": "motherday3",
+        "item": -1,
+        "path": "/theme/holiday/motherday3.zip",
+        "musicPath": "/music/soft/City Sunshine.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/motherday3",
+        "translate": {
+          "en": "Thankful For Mom",
+          "zh": "感谢母亲节",
+          "zh-HK": "感謝母親節"
+        }
+      },
+      {
+        "name": "motherday4",
+        "item": -1,
+        "path": "/theme/holiday/motherday4.zip",
+        "musicPath": "/music/love/cinematic-fairy-tale-story-main.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/motherday4",
+        "translate": {
+          "en": "Stunning Mom",
+          "zh": "惊艳的妈妈",
+          "zh-HK": "驚豔的媽媽"
+        }
+      },
+      {
+        "name": "motherday5",
+        "item": -1,
+        "path": "/theme/holiday/motherday5.zip",
+        "musicPath": "/music/soft/Higher.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/motherday5",
+        "translate": {
+          "en": "Mom, My Hero",
+          "zh": "英雄妈咪",
+          "zh-HK": "英雄媽咪"
+        }
+      },
+      {
+        "name": "motherday2",
+        "item": -1,
+        "path": "/theme/holiday/motherday2.zip",
+        "musicPath": "/music/love/Lovely Piano Song.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/motherday2",
+        "translate": {
+          "en": "Adored Mom",
+          "zh": "爱戴的妈妈",
+          "zh-HK": "愛戴的媽媽"
+        }
+      },
+      {
+        "name": "motherday1",
+        "item": -1,
+        "path": "/theme/holiday/motherday1.zip",
+        "musicPath": "/music/happy/Ukulele Fun.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/motherday1",
+        "translate": {
+          "en": "Mom\u0027s Day",
+          "zh": "最棒的母亲节",
+          "zh-HK": "最棒的母親節"
+        }
+      },
+      {
+        "name": "easter7",
+        "item": 1,
+        "path": "/theme/holiday/easter7.zip",
+        "musicPath": "/music/soft/Happy Times.mp3",
+        "particle": "PAG_PARTICLE39",
+        "transitions": "FLASH_WHITE",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/easter7",
+        "translate": {
+          "zh-HK": "彩蛋節",
+          "en": "Egg Festival",
+          "zh": "彩蛋节"
+        }
+      },
+      {
+        "name": "easter9",
+        "item": 1,
+        "path": "/theme/holiday/easter9.zip",
+        "musicPath": "/music/general/positive_happy.mp3",
+        "particle": "SYSTEM_5",
+        "transitions": "PAG_MG7",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/holiday/easter9",
+        "translate": {
+          "zh-HK": "復活節故事",
+          "en": "Easter Story",
+          "zh": "复活节故事"
+        }
+      },
+      {
+        "name": "easter10",
+        "item": 1,
+        "path": "/theme/holiday/easter10.zip",
+        "musicPath": "/music/happy/Funshine.mp3",
+        "particle": "PAG_PARTICLE21",
+        "transitions": "MOVE_PUSH_T",
+        "ratio": "3:4",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/holiday/easter10",
+        "translate": {
+          "zh-HK": "彩蛋之夢",
+          "en": "Egg Dreams",
+          "zh": "彩蛋之梦"
+        }
+      },
+      {
+        "name": "easter8",
+        "item": 1,
+        "path": "/theme/holiday/easter8.zip",
+        "musicPath": "/music/happy/Happy Ukulele.mp3",
+        "particle": "PAG_PARTICLE13",
+        "transitions": "PAG_BOOM4",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/holiday/easter8",
+        "vip": true,
+        "translate": {
+          "zh-HK": "復活節瞬間",
+          "en": "Easter Moments",
+          "zh": "复活节瞬间"
+        }
+      },
+      {
+        "name": "easter2",
+        "item": -1,
+        "path": "/theme/holiday/easter2.zip",
+        "musicPath": "/music/general/positive_happy.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/easter2",
+        "translate": {
+          "en": "Easter Tradition",
+          "zh": "复活节传统",
+          "zh-HK": "復活節傳統"
+        }
+      },
+      {
+        "name": "easter5",
+        "item": -1,
+        "path": "/theme/holiday/easter5.zip",
+        "musicPath": "/music/general/Everyday.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/easter5",
+        "translate": {
+          "en": "Easter Greetings",
+          "zh": "复活节问候",
+          "zh-HK": "復活節問候"
+        }
+      },
+      {
+        "name": "easter1",
+        "item": -1,
+        "path": "/theme/holiday/easter1.zip",
+        "musicPath": "/music/beats/Beyond Dreams.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/easter1",
+        "translate": {
+          "en": "Easter Celebration",
+          "zh": "复活节庆祝",
+          "zh-HK": "復活節慶祝"
+        }
+      },
+      {
+        "name": "easter0",
+        "item": -1,
+        "path": "/theme/holiday/easter0.zip",
+        "musicPath": "/music/soft/Happy Times.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/easter0",
+        "translate": {
+          "en": "Happy Easter",
+          "zh": "复活节快乐",
+          "zh-HK": "復活節快樂"
+        }
+      },
+      {
+        "name": "easter3",
+        "item": -1,
+        "path": "/theme/holiday/easter3.zip",
+        "musicPath": "/music/happy/Funshine.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/easter3",
+        "translate": {
+          "en": "Easter Wishes",
+          "zh": "复活节祝福",
+          "zh-HK": "復活節祝福"
+        }
+      },
+      {
+        "name": "easter4",
+        "item": -1,
+        "path": "/theme/holiday/easter4.zip",
+        "musicPath": "/music/soft/City Sunshine.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/easter4",
+        "translate": {
+          "en": "Easter Lily",
+          "zh": "复活节百合",
+          "zh-HK": "復活節百合"
+        }
+      },
+      {
+        "name": "easter6",
+        "item": -1,
+        "path": "/theme/holiday/easter6.zip",
+        "musicPath": "/music/beats/Beyond Dreams.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/easter6",
+        "translate": {
+          "en": "Easter Egg",
+          "zh": "复活节彩蛋",
+          "zh-HK": "復活節彩蛋"
+        }
+      },
+      {
+        "name": "holi16",
+        "item": -1,
+        "path": "/theme/holiday/holi16.zip",
+        "musicPath": "/music/beats/A_Difficult_Subject.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/holi16",
+        "translate": {
+          "en": "Holi Revelry",
+          "zh": "洒红节狂欢",
+          "zh-HK": "灑紅節狂歡"
+        }
+      },
+      {
+        "name": "holi14",
+        "item": -1,
+        "path": "/theme/holiday/holi14.zip",
+        "musicPath": "/music/beats/Upbeat Funk Pop .mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/holiday/holi14",
+        "translate": {
+          "en": "Indian Holi",
+          "zh": "印度洒红节",
+          "zh-HK": "印度灑紅節"
+        }
+      },
+      {
+        "name": "holi15",
+        "item": -1,
+        "path": "/theme/holiday/holi15.zip",
+        "musicPath": "/music/beats/in-the-now.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/holi15",
+        "translate": {
+          "en": "Holi Festival",
+          "zh": "洒红节",
+          "zh-HK": "灑紅節"
+        }
+      },
+      {
+        "name": "holi13",
+        "item": -1,
+        "path": "/theme/holiday/holi13.zip",
+        "musicPath": "/music/happy/Happy Ukulele.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/holi13",
+        "translate": {
+          "en": "Holi Delicacies",
+          "zh": "洒红节美食",
+          "zh-HK": "灑紅節美食"
+        }
+      },
+      {
+        "name": "womenday3",
+        "item": -1,
+        "path": "/theme/holiday/womenday3.zip",
+        "musicPath": "/music/soft/Happy Times.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/holiday/womenday3",
+        "translate": {
+          "en": "Women Rising",
+          "zh": "女性崛起",
+          "zh-HK": "女性崛起"
+        }
+      },
+      {
+        "name": "womenday0",
+        "item": -1,
+        "path": "/theme/holiday/womenday0.zip",
+        "musicPath": "/music/soft/WalkingStars.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/holiday/womenday0",
+        "translate": {
+          "en": "Happy 8 March",
+          "zh": "三八妇女节",
+          "zh-HK": "三八婦女節"
+        }
+      },
+      {
+        "name": "womenday4",
+        "item": -1,
+        "path": "/theme/holiday/womenday4.zip",
+        "musicPath": "/music/soft/Higher.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/holiday/womenday4",
+        "translate": {
+          "en": "Shine Women",
+          "zh": "闪耀女性",
+          "zh-HK": "閃耀女性"
+        }
+      },
+      {
+        "name": "womenday2",
+        "item": -1,
+        "path": "/theme/holiday/womenday2.zip",
+        "musicPath": "/music/beats/Beyond Dreams.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/womenday2",
+        "translate": {
+          "en": "Women Unite",
+          "zh": "女性团结",
+          "zh-HK": "女性團結"
+        }
+      },
+      {
+        "name": "womenday1",
+        "item": -1,
+        "path": "/theme/holiday/womenday1.zip",
+        "musicPath": "/music/happy/Happy Ukulele.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/womenday1",
+        "translate": {
+          "en": "World Women\u0027s Day",
+          "zh": "国际妇女节",
+          "zh-HK": "國際婦女節"
+        }
+      },
+      {
+        "name": "christmas23",
+        "item": 1,
+        "path": "/theme/christmas/christmas23.zip",
+        "musicPath": "/music/festival/amazing-grace-of-christmas.mp3",
+        "particle": "SYSTEM_17",
+        "transitions": "PAG_PARTICLE2",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/christmas/christmas23",
+        "vip": true,
+        "translate": {
+          "en": "Christmas Dreams",
+          "zh": "圣诞梦想",
+          "zh-HK": "聖誕夢想"
+        }
+      },
+      {
+        "name": "christmas24",
+        "item": 1,
+        "path": "/theme/christmas/christmas24.zip",
+        "musicPath": "/music/festival/happy-christmas-inspiring.mp3",
+        "particle": "PAG_PARTICLE1",
+        "transitions": "PAG_PARTICLE1",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/christmas/christmas24",
+        "translate": {
+          "en": "Christmas Stories",
+          "zh": "圣诞故事",
+          "zh-HK": "聖誕故事"
+        }
+      },
+      {
+        "name": "christmas25",
+        "item": 1,
+        "path": "/theme/christmas/christmas25.zip",
+        "musicPath": "/music/festival/modern-christmas-full-no-santa.mp3",
+        "particle": "SYSTEM_18",
+        "transitions": "PAG_BOOM5",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/christmas/christmas25",
+        "translate": {
+          "en": "Christmas Stars",
+          "zh": "圣诞星光",
+          "zh-HK": "聖誕星光"
+        }
+      },
+      {
+        "name": "christmas26",
+        "item": 1,
+        "path": "/theme/christmas/christmas26.zip",
+        "musicPath": "/music/festival/a-christmas-tree-in-every-home.mp3",
+        "particle": "SYSTEM_8",
+        "transitions": "PAG_HALO7",
+        "ratio": "9:16",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/christmas/christmas26",
+        "translate": {
+          "en": "Christmas Cheer",
+          "zh": "圣诞欢呼",
+          "zh-HK": "聖誕歡呼"
+        }
+      },
+      {
+        "name": "christmas27",
+        "item": 1,
+        "path": "/theme/christmas/christmas27.zip",
+        "musicPath": "/music/festival/christmas-story.mp3",
+        "particle": "PAG_PARTICLE26",
+        "transitions": "FLASH_BLACK",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/christmas/christmas27",
+        "vip": true,
+        "translate": {
+          "en": "Christmas Parade",
+          "zh": "圣诞游行",
+          "zh-HK": "聖誕遊行"
+        }
+      },
+      {
+        "name": "christmas28",
+        "item": 1,
+        "path": "/theme/christmas/christmas28.zip",
+        "musicPath": "/music/festival/modern-christmas-full-no-santa.mp3",
+        "transitions": "PAG_HALO6",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/christmas/christmas28",
+        "translate": {
+          "en": "Christmas Surprise",
+          "zh": "圣诞惊喜",
+          "zh-HK": "聖誕驚喜"
+        }
+      },
+      {
+        "name": "christmas29",
+        "item": 1,
+        "path": "/theme/christmas/christmas29.zip",
+        "musicPath": "/music/festival/a-christmas-tree-in-every-home.mp3",
+        "particle": "SYSTEM_8",
+        "transitions": "FLASH_WHITE",
+        "previewRatio": "1:1",
+        "previewPath": "/resource_3/christmas/christmas29",
+        "translate": {
+          "en": "Christmas Gift",
+          "zh": "圣诞礼物",
+          "zh-HK": "聖誕禮物"
+        }
+      },
+      {
+        "name": "christmas30",
+        "item": 1,
+        "path": "/theme/christmas/christmas30.zip",
+        "musicPath": "/music/festival/modern-christmas-full-no-santa.mp3",
+        "transitions": "PAG_INTEREST_COMMON1",
+        "ratio": "3:4",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/christmas/christmas30",
+        "translate": {
+          "en": "Christmas Celebration",
+          "zh": "圣诞庆典",
+          "zh-HK": "聖誕慶典"
+        }
+      },
+      {
+        "name": "christmas7",
+        "item": -1,
+        "path": "/theme/christmas/christmas7.zip",
+        "musicPath": "/music/festival/amazing-grace-of-christmas.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/christmas/christmas7",
+        "translate": {
+          "en": "Christmas Lights",
+          "zh": "圣诞彩灯",
+          "zh-HK": "聖誕彩燈"
+        }
+      },
+      {
+        "name": "christmas8",
+        "item": -1,
+        "path": "/theme/christmas/christmas8.zip",
+        "musicPath": "/music/festival/happy-christmas-inspiring.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/christmas/christmas8",
+        "translate": {
+          "en": "Christmas is Coming",
+          "zh": "圣诞节来了",
+          "zh-HK": "聖誕節來了"
+        }
+      },
+      {
+        "name": "christmas9",
+        "item": -1,
+        "path": "/theme/christmas/christmas9.zip",
+        "musicPath": "/music/festival/modern-christmas-full-no-santa.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/christmas/christmas9",
+        "translate": {
+          "en": "Celebrate Christmas",
+          "zh": "庆祝圣诞节",
+          "zh-HK": "慶祝聖誕節"
+        }
+      },
+      {
+        "name": "christmas10",
+        "item": -1,
+        "path": "/theme/christmas/christmas10.zip",
+        "musicPath": "/music/festival/a-christmas-tree-in-every-home.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/christmas/christmas10",
+        "translate": {
+          "en": "Christmas Night",
+          "zh": "圣诞之夜",
+          "zh-HK": "聖誕夜"
+        }
+      },
+      {
+        "name": "christmas11",
+        "item": -1,
+        "path": "/theme/christmas/christmas11.zip",
+        "musicPath": "/music/festival/christmas-story.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/christmas/christmas11",
+        "translate": {
+          "en": "Christmas Card",
+          "zh": "圣诞贺卡",
+          "zh-HK": "聖誕卡"
+        }
+      },
+      {
+        "name": "christmas12",
+        "item": -1,
+        "path": "/theme/christmas/christmas12.zip",
+        "musicPath": "/music/festival/modern-christmas-full-no-santa.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/christmas/christmas12",
+        "translate": {
+          "en": "Christmas Blessing",
+          "zh": "圣诞祝福",
+          "zh-HK": "聖誕祝福"
+        }
+      },
+      {
+        "name": "christmas13",
+        "item": -1,
+        "path": "/theme/christmas/christmas13.zip",
+        "musicPath": "/music/festival/a-christmas-tree-in-every-home.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/christmas/christmas13",
+        "translate": {
+          "en": "Christmas Bells",
+          "zh": "圣诞铃铛",
+          "zh-HK": "聖誕鈴鐺"
+        }
+      },
+      {
+        "name": "christmas14",
+        "item": -1,
+        "path": "/theme/christmas/christmas14.zip",
+        "musicPath": "/music/festival/modern-christmas-full-no-santa.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/christmas/christmas14",
+        "translate": {
+          "en": "Christmas Cookies",
+          "zh": "圣诞饼干",
+          "zh-HK": "聖誕餅乾"
+        }
+      },
+      {
+        "name": "christmas15",
+        "item": -1,
+        "path": "/theme/christmas/christmas15.zip",
+        "musicPath": "/music/festival/amazing-grace-of-christmas.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/christmas/christmas15",
+        "translate": {
+          "en": "Christmas Greeting",
+          "zh": "圣诞问候",
+          "zh-HK": "聖誕問候"
+        }
+      },
+      {
+        "name": "christmas16",
+        "item": -1,
+        "path": "/theme/christmas/christmas16.zip",
+        "musicPath": "/music/festival/happy-christmas-inspiring.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/christmas/christmas16",
+        "translate": {
+          "en": "Christmas Moment",
+          "zh": "圣诞时刻",
+          "zh-HK": "耶誕節時刻"
+        }
+      },
+      {
+        "name": "christmas17",
+        "item": -1,
+        "path": "/theme/christmas/christmas17.zip",
+        "musicPath": "/music/festival/christmas-story.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/christmas/christmas17",
+        "translate": {
+          "en": "Christmas Eggnog",
+          "zh": "圣诞蛋酒",
+          "zh-HK": "聖誕蛋酒"
+        }
+      },
+      {
+        "name": "christmas18",
+        "item": -1,
+        "path": "/theme/christmas/christmas18.zip",
+        "musicPath": "/music/festival/a-christmas-tree-in-every-home.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/christmas/christmas18",
+        "translate": {
+          "en": "Christmas Earols",
+          "zh": "圣诞颂歌",
+          "zh-HK": "聖誕頌歌"
+        }
+      },
+      {
+        "name": "christmas19",
+        "item": -1,
+        "path": "/theme/christmas/christmas19.zip",
+        "musicPath": "/music/festival/amazing-grace-of-christmas.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/christmas/christmas19",
+        "translate": {
+          "en": "Christmas Party",
+          "zh": "圣诞聚会",
+          "zh-HK": "聖誕聚會"
+        }
+      },
+      {
+        "name": "christmas20",
+        "item": -1,
+        "path": "/theme/christmas/christmas20.zip",
+        "musicPath": "/music/festival/modern-christmas-full-no-santa.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/christmas/christmas20",
+        "translate": {
+          "en": "Hello Christmas",
+          "zh": "你好圣诞节",
+          "zh-HK": "你好聖誕節"
+        }
+      },
+      {
+        "name": "christmas21",
+        "item": -1,
+        "path": "/theme/christmas/christmas21.zip",
+        "musicPath": "/music/festival/happy-christmas-inspiring.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/christmas/christmas21",
+        "translate": {
+          "en": "Warm Christmas",
+          "zh": "温馨圣诞节",
+          "zh-HK": "溫馨聖誕節"
+        }
+      },
+      {
+        "name": "christmas22",
+        "item": -1,
+        "path": "/theme/christmas/christmas22.zip",
+        "musicPath": "/music/festival/a-christmas-tree-in-every-home.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/christmas/christmas22",
+        "translate": {
+          "en": "Christmas Ornament",
+          "zh": "圣诞节饰品",
+          "zh-HK": "耶誕節飾品"
+        }
+      },
+      {
+        "name": "christmas6",
+        "item": -1,
+        "path": "/theme/christmas/christmas6.zip",
+        "musicPath": "/music/festival/a-christmas-tree-in-every-home.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/christmas/christmas6",
+        "translate": {
+          "en": "Christmas Snowflakes",
+          "zh": "圣诞节雪花",
+          "zh-HK": "聖誕節雪花"
+        }
+      },
+      {
+        "name": "christmas5",
+        "item": -1,
+        "path": "/theme/christmas/christmas5.zip",
+        "musicPath": "/music/festival/happy-christmas-inspiring.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/christmas/christmas5",
+        "translate": {
+          "en": "Christmas Snowman",
+          "zh": "圣诞节雪人",
+          "zh-HK": "聖誕節雪人"
+        }
+      },
+      {
+        "name": "christmas3",
+        "item": -1,
+        "path": "/theme/christmas/christmas3.zip",
+        "musicPath": "/music/festival/christmas-story.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/christmas/christmas3",
+        "translate": {
+          "en": "Christmas Tree",
+          "zh": "圣诞树",
+          "zh-HK": "聖誕樹"
+        }
+      },
+      {
+        "name": "christmas2",
+        "item": -1,
+        "path": "/theme/christmas/christmas2.zip",
+        "musicPath": "/music/festival/We Wish You a Merry Christmas.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/christmas/christmas2",
+        "translate": {
+          "en": "Christmas Present",
+          "zh": "圣诞节礼物",
+          "zh-HK": "聖誕節禮物"
+        }
+      },
+      {
+        "name": "christmas1",
+        "item": -1,
+        "path": "/theme/christmas/christmas1.zip",
+        "musicPath": "/music/festival/amazing-grace-of-christmas.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/christmas/christmas1",
+        "translate": {
+          "en": "Christmas Wreath",
+          "zh": "圣诞花环",
+          "zh-HK": "聖誕花環"
+        }
+      },
+      {
+        "name": "christmas0",
+        "item": -1,
+        "path": "/theme/christmas/christmas0.zip",
+        "musicPath": "/music/festival/a-christmas-tree-in-every-home.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/christmas/christmas0",
+        "translate": {
+          "en": "Christmas Time",
+          "zh": "圣诞节时光",
+          "zh-HK": "聖誕節時光"
+        }
+      },
+      {
+        "name": "holiday3",
+        "item": -1,
+        "path": "/theme/holiday/holiday3.zip",
+        "musicPath": "/music/happy/centum-celebration-by-mikael-hellman-from-filmmusic-io.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/Christmas hat",
+        "translate": {
+          "en": "Santa Hat",
+          "zh": "圣诞帽",
+          "zh-HK": "聖誕帽"
+        }
+      },
+      {
+        "name": "holiday2",
+        "item": -1,
+        "path": "/theme/holiday/holiday2.zip",
+        "musicPath": "/music/happy/centum-celebration-by-mikael-hellman-from-filmmusic-io.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/Christmas Santa",
+        "translate": {
+          "en": "Saint Nick",
+          "zh": "圣诞老人",
+          "zh-HK": "聖誕老人"
+        }
+      },
+      {
+        "name": "holiday1",
+        "item": -1,
+        "path": "/theme/holiday/holiday1.zip",
+        "musicPath": "/music/happy/centum-celebration-by-mikael-hellman-from-filmmusic-io.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/MerryChristmas",
+        "translate": {
+          "en": "Jolly Christmas",
+          "zh": "圣诞节愉快",
+          "zh-HK": "耶誕節愉快"
+        }
+      },
+      {
+        "name": "halloween11",
+        "item": 1,
+        "path": "/theme/holiday/halloween11.zip",
+        "musicPath": "/music/general/let-the-mystery-unfold.mp3",
+        "particle": "FANCY_61",
+        "transitions": "PAG_BOOM3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/halloween11",
+        "translate": {
+          "en": "Frightful Halloween",
+          "zh": "惊悚万圣节",
+          "zh-HK": "恐怖萬聖節"
+        }
+      },
+      {
+        "name": "halloween12",
+        "item": 3,
+        "path": "/theme/holiday/halloween12_1.zip",
+        "musicPath": "/music/epic/Mysterious Lights.mp3",
+        "transitions": "PAG_INTEREST_GLITCH5",
+        "ratio": "9:16",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/halloween12",
+        "vip": true,
+        "translate": {
+          "en": "Haunted House",
+          "zh": "万圣节鬼屋",
+          "zh-HK": "萬聖節鬼屋"
+        }
+      },
+      {
+        "name": "halloween13",
+        "item": 3,
+        "path": "/theme/holiday/halloween13_1.zip",
+        "musicPath": "/music/epic/Footsteps in the Attic.mp3",
+        "transitions": "SHAKE",
+        "ratio": "9:16",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/halloween13",
+        "translate": {
+          "en": "Halloween Market",
+          "zh": "万圣节集市",
+          "zh-HK": "萬聖節市集"
+        }
+      },
+      {
+        "name": "halloween14",
+        "item": 1,
+        "path": "/theme/holiday/halloween14.zip",
+        "musicPath": "/music/epic/Satin Danger.mp3",
+        "particle": "FANCY_61",
+        "transitions": "SERIES1",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/halloween14",
+        "translate": {
+          "en": "Pumpkin Lantern",
+          "zh": "南瓜灯节",
+          "zh-HK": "南瓜燈節"
+        }
+      },
+      {
+        "name": "halloween15",
+        "item": 1,
+        "path": "/theme/holiday/halloween15.zip",
+        "musicPath": "/music/general/let-the-mystery-unfold.mp3",
+        "particle": "PAG_PARTICLE16",
+        "transitions": "SERIES5",
+        "ratio": "9:16",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/halloween15",
+        "vip": true,
+        "translate": {
+          "en": "Halloween Bonfire",
+          "zh": "万圣节篝火",
+          "zh-HK": "萬聖節篝火"
+        }
+      },
+      {
+        "name": "halloween16",
+        "item": 1,
+        "path": "/theme/holiday/halloween16.zip",
+        "musicPath": "/music/epic/Footsteps in the Attic.mp3",
+        "particle": "PAG_PARTICLE3",
+        "transitions": "SERIES12",
+        "ratio": "9:16",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/halloween16",
+        "translate": {
+          "en": "Magical Halloween",
+          "zh": "魔法万圣节",
+          "zh-HK": "魔法萬聖節"
+        }
+      },
+      {
+        "name": "halloween17",
+        "item": 1,
+        "path": "/theme/holiday/halloween17.zip",
+        "musicPath": "/music/epic/Mysterious Lights.mp3",
+        "particle": "PAG_PARTICLE4",
+        "transitions": "SERIES1",
+        "ratio": "3:4",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/holiday/halloween17",
+        "translate": {
+          "en": "Dark Halloween",
+          "zh": "暗黑万圣节",
+          "zh-HK": "黑暗萬聖節"
+        }
+      },
+      {
+        "name": "halloween18",
+        "item": 1,
+        "path": "/theme/holiday/halloween18.zip",
+        "musicPath": "/music/epic/Satin Danger.mp3",
+        "particle": "SYSTEM_10",
+        "transitions": "PAG_INTEREST_CAMERA2",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/halloween18",
+        "translate": {
+          "en": "Halloween Treasures",
+          "zh": "万圣节寻宝",
+          "zh-HK": "萬聖節尋寶"
+        }
+      },
+      {
+        "name": "halloween0",
+        "item": -1,
+        "path": "/theme/holiday/halloween0.zip",
+        "musicPath": "/music/general/let-the-mystery-unfold.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/halloween0",
+        "translate": {
+          "en": "Trick Halloween",
+          "zh": "捣乱万圣节",
+          "zh-HK": "搗亂萬聖節"
+        }
+      },
+      {
+        "name": "halloween1",
+        "item": -1,
+        "path": "/theme/holiday/halloween1.zip",
+        "musicPath": "/music/epic/Mysterious Lights.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/halloween1",
+        "translate": {
+          "en": "Party Of Halloween",
+          "zh": "万圣节晚会",
+          "zh-HK": "萬聖節晚會"
+        }
+      },
+      {
+        "name": "halloween2",
+        "item": -1,
+        "path": "/theme/holiday/halloween2.zip",
+        "musicPath": "/music/epic/Footsteps in the Attic.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/halloween2",
+        "translate": {
+          "en": "Costume Halloween",
+          "zh": "万圣节装扮",
+          "zh-HK": "萬聖節裝扮"
+        }
+      },
+      {
+        "name": "halloween3",
+        "item": -1,
+        "path": "/theme/holiday/halloween3.zip",
+        "musicPath": "/music/epic/Satin Danger.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/halloween3",
+        "translate": {
+          "en": "Halloween Candy",
+          "zh": "万圣节糖果",
+          "zh-HK": "萬聖節糖果"
+        }
+      },
+      {
+        "name": "halloween4",
+        "item": -1,
+        "path": "/theme/holiday/halloween4.zip",
+        "musicPath": "/music/general/let-the-mystery-unfold.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/halloween4",
+        "translate": {
+          "en": "Halloween Moment",
+          "zh": "万圣节时刻",
+          "zh-HK": "萬聖節時刻"
+        }
+      },
+      {
+        "name": "halloween5",
+        "item": -1,
+        "path": "/theme/holiday/halloween5.zip",
+        "musicPath": "/music/epic/Footsteps in the Attic.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/halloween5",
+        "translate": {
+          "en": "Halloween Parade",
+          "zh": "万圣节游行",
+          "zh-HK": "萬聖節遊行"
+        }
+      },
+      {
+        "name": "holiday22",
+        "item": -1,
+        "path": "/theme/holiday/holiday22.zip",
+        "musicPath": "/music/epic/Satin Danger.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/Hello halloween",
+        "translate": {
+          "en": "Halloween Howdy",
+          "zh": "万圣节问候",
+          "zh-HK": "萬聖節問候"
+        }
+      },
+      {
+        "name": "holiday21",
+        "item": -1,
+        "path": "/theme/holiday/holiday21.zip",
+        "musicPath": "/music/epic/Mysterious Lights.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/Halloween Card",
+        "translate": {
+          "en": "Halloween Note",
+          "zh": "万圣节笔记",
+          "zh-HK": "萬聖節筆記"
+        }
+      },
+      {
+        "name": "holiday20",
+        "item": -1,
+        "path": "/theme/holiday/holiday20.zip",
+        "musicPath": "/music/epic/Footsteps in the Attic.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/Celebrate Halloween",
+        "translate": {
+          "en": "Halloween Together",
+          "zh": "共度万圣节",
+          "zh-HK": "共度萬聖節"
+        }
+      },
+      {
+        "name": "holiday19",
+        "item": -1,
+        "path": "/theme/holiday/holiday19.zip",
+        "musicPath": "/music/epic/Asking Questions.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/Halloween Time",
+        "translate": {
+          "en": "Time For Halloween",
+          "zh": "万圣节时间",
+          "zh-HK": "萬聖節時間"
+        }
+      },
+      {
+        "name": "holiday18",
+        "item": -1,
+        "path": "/theme/holiday/holiday18.zip",
+        "musicPath": "/music/epic/Satin Danger.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/holiday/Ghost Halloween",
+        "translate": {
+          "en": "Monster Halloween",
+          "zh": "万圣节鬼怪",
+          "zh-HK": "萬聖節鬼怪"
+        }
+      },
+      {
+        "name": "holiday17",
+        "item": -1,
+        "path": "/theme/holiday/holiday17.zip",
+        "musicPath": "/music/epic/Mysterious Lights.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/Halloween Pumpkin",
+        "translate": {
+          "en": "Spider Halloween",
+          "zh": "玩乐万圣节",
+          "zh-HK": "玩樂萬聖節"
+        }
+      },
+      {
+        "name": "holiday16",
+        "item": -1,
+        "path": "/theme/holiday/holiday16.zip",
+        "musicPath": "/music/epic/Footsteps in the Attic.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/Halloween Party",
+        "translate": {
+          "en": "Thanksgiving Celebration",
+          "zh": "庆祝万圣节",
+          "zh-HK": "慶祝萬聖節"
+        }
+      },
+      {
+        "name": "holiday15",
+        "item": -1,
+        "path": "/theme/holiday/holiday15.zip",
+        "musicPath": "/music/epic/Asking Questions.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/Carnival Halloween",
+        "translate": {
+          "en": "Halloween Mask",
+          "zh": "万圣节面具",
+          "zh-HK": "萬聖節面具"
+        }
+      },
+      {
+        "name": "thanksgiving1",
+        "item": 1,
+        "path": "/theme/holiday/thanksgiving1.zip",
+        "musicPath": "/music/happy/Happy Ukulele.mp3",
+        "particle": "PAG_PARTICLE12",
+        "transitions": "PAG_MG15",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/thanksgiving1",
+        "translate": {
+          "en": "Thanksgiving Baking",
+          "zh": "感恩节烘焙",
+          "zh-HK": "感恩節烘焙"
+        }
+      },
+      {
+        "name": "thanksgiving2",
+        "item": 3,
+        "path": "/theme/holiday/thanksgiving2.zip",
+        "musicPath": "/music/happy/Funshine.mp3",
+        "transitions": "SERIES3",
+        "ratio": "9:16",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/thanksgiving2",
+        "translate": {
+          "en": "Thanksgiving Story",
+          "zh": "感恩节故事",
+          "zh-HK": "感恩節故事"
+        }
+      },
+      {
+        "name": "thanksgiving3",
+        "item": 3,
+        "path": "/theme/holiday/thanksgiving3.zip",
+        "musicPath": "/music/soft/Happy Times.mp3",
+        "transitions": "SERIES1",
+        "ratio": "9:16",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/thanksgiving3",
+        "translate": {
+          "en": "Thanksgiving Family",
+          "zh": "感恩节家庭",
+          "zh-HK": "感恩節家庭"
+        }
+      },
+      {
+        "name": "thanksgiving4",
+        "item": 1,
+        "path": "/theme/holiday/thanksgiving4.zip",
+        "musicPath": "/music/general/positive_happy.mp3",
+        "particle": "PAG_PARTICLE41",
+        "transitions": "SERIES15",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/thanksgiving4",
+        "translate": {
+          "en": "Thanksgiving Spirit",
+          "zh": "感恩节精神",
+          "zh-HK": "感恩精神"
+        }
+      },
+      {
+        "name": "thanksgiving5",
+        "item": 1,
+        "path": "/theme/holiday/thanksgiving5.zip",
+        "musicPath": "/music/happy/Happy Ukulele.mp3",
+        "particle": "PAG_HALO4",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/thanksgiving5",
+        "translate": {
+          "en": "Thanksgiving Surprise",
+          "zh": "感恩节惊喜",
+          "zh-HK": "感恩節驚喜"
+        }
+      },
+      {
+        "name": "thanksgiving6",
+        "item": 1,
+        "path": "/theme/holiday/thanksgiving6.zip",
+        "musicPath": "/music/happy/Funshine.mp3",
+        "particle": "PAG_PARTICLE53",
+        "transitions": "SERIES1",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/thanksgiving6",
+        "translate": {
+          "en": "Thanksgiving Meal",
+          "zh": "感恩节大餐",
+          "zh-HK": "感恩節大餐"
+        }
+      },
+      {
+        "name": "thanksgiving7",
+        "item": 1,
+        "path": "/theme/holiday/thanksgiving7.zip",
+        "musicPath": "/music/happy/Happy Ukulele.mp3",
+        "particle": "PAG_PARTICLE5",
+        "transitions": "FLASH_WHITE",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/thanksgiving7",
+        "translate": {
+          "en": "Thanksgiving Blessings",
+          "zh": "感恩节祝福",
+          "zh-HK": "感恩節祝福"
+        }
+      },
+      {
+        "name": "thanksgiving8",
+        "item": 1,
+        "path": "/theme/holiday/thanksgiving8.zip",
+        "musicPath": "/music/happy/Happy Ukulele.mp3",
+        "particle": "PAG_PARTICLE41",
+        "transitions": "SERIES5",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/holiday/thanksgiving8",
+        "translate": {
+          "en": "Thanksgiving Dessert",
+          "zh": "感恩节甜点",
+          "zh-HK": "感恩節甜點"
+        }
+      },
+      {
+        "name": "greeting16",
+        "item": -1,
+        "path": "/theme/greeting/greeting16.zip",
+        "musicPath": "/music/soft/Happy Times.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/greeting/greeting16",
+        "translate": {
+          "en": "Thanksgiving Soon",
+          "zh": "感恩节临近",
+          "zh-HK": "感恩節臨近"
+        }
+      },
+      {
+        "name": "greeting17",
+        "item": -1,
+        "path": "/theme/greeting/greeting17.zip",
+        "musicPath": "/music/happy/Thanks-giving-band-mix.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/greeting/greeting17",
+        "translate": {
+          "en": "Cheerful Thanksgiving",
+          "zh": "愉悦感恩节",
+          "zh-HK": "愉悅感恩節"
+        }
+      },
+      {
+        "name": "greeting18",
+        "item": -1,
+        "path": "/theme/greeting/greeting18.zip",
+        "musicPath": "/music/general/positive_happy.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/greeting/greeting18",
+        "translate": {
+          "en": "Celebration Of Thanksgiving",
+          "zh": "感恩节庆祝",
+          "zh-HK": "感恩節慶祝"
+        }
+      },
+      {
+        "name": "greeting19",
+        "item": -1,
+        "path": "/theme/greeting/greeting19.zip",
+        "musicPath": "/music/happy/Happy Ukulele.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/greeting/greeting19",
+        "translate": {
+          "en": "National Day Of Thanksgiving",
+          "zh": "全国感恩节",
+          "zh-HK": "全國感恩節"
+        }
+      },
+      {
+        "name": "greeting20",
+        "item": -1,
+        "path": "/theme/greeting/greeting20.zip",
+        "musicPath": "/music/happy/Fun_Day.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/greeting/greeting20",
+        "translate": {
+          "en": "Thanksgiving Salutations",
+          "zh": "感恩节祝愿",
+          "zh-HK": "感恩節祝願"
+        }
+      },
+      {
+        "name": "holiday26",
+        "item": -1,
+        "path": "/theme/holiday/holiday26.zip",
+        "musicPath": "/music/happy/Heart-of-thanks.mp3",
+        "previewRatio": "1:1",
+        "previewPath": "/resource_3/holiday/Thanksgiving Party",
+        "translate": {
+          "en": "Thanksgiving Celebration",
+          "zh": "庆祝感恩节",
+          "zh-HK": "慶祝感恩節"
+        }
+      },
+      {
+        "name": "holiday27",
+        "item": -1,
+        "path": "/theme/holiday/holiday27.zip",
+        "musicPath": "/music/happy/Thank You (Remix) .mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/Thanksgiving Time",
+        "translate": {
+          "en": "Thanksgiving Period",
+          "zh": "感恩节时期",
+          "zh-HK": "感恩節時期"
+        }
+      },
+      {
+        "name": "holiday28",
+        "item": -1,
+        "path": "/theme/holiday/holiday28.zip",
+        "musicPath": "/music/happy/Miyagisama-thank-you.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/Thanksgiving Coming",
+        "translate": {
+          "en": "Thanksgiving Approaching",
+          "zh": "感恩节将至",
+          "zh-HK": "感恩節將至"
+        }
+      },
+      {
+        "name": "holiday29",
+        "item": -1,
+        "path": "/theme/holiday/holiday29.zip",
+        "musicPath": "/music/happy/Thanks-giving-band-mix.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/Happy Thanksgiving",
+        "translate": {
+          "en": "Thanksgiving Blessings",
+          "zh": "感恩节祝福",
+          "zh-HK": "感恩節祝福"
+        }
+      },
+      {
+        "name": "holiday30",
+        "item": -1,
+        "path": "/theme/holiday/holiday30.zip",
+        "musicPath": "/music/happy/Heart-of-thanks.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/Celebrate Thanksgiving",
+        "translate": {
+          "en": "Thanksgiving Together",
+          "zh": "共度感恩节",
+          "zh-HK": "共度感恩節"
+        }
+      },
+      {
+        "name": "holiday31",
+        "item": -1,
+        "path": "/theme/holiday/holiday31.zip",
+        "musicPath": "/music/happy/Thank You .mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/Thanksgiving Day",
+        "translate": {
+          "en": "Happy Thanksgiving",
+          "zh": "欢度感恩节",
+          "zh-HK": "歡度感恩節"
+        }
+      },
+      {
+        "name": "holiday32",
+        "item": -1,
+        "path": "/theme/holiday/holiday32.zip",
+        "musicPath": "/music/happy/Thank You (Remix) .mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/Hello Thanksgiving",
+        "translate": {
+          "en": "Thanksgiving Howdy",
+          "zh": "问候感恩节",
+          "zh-HK": "問候感恩節"
+        }
+      },
+      {
+        "name": "holiday33",
+        "item": -1,
+        "path": "/theme/holiday/holiday33.zip",
+        "musicPath": "/music/happy/Miyagisama-thank-you.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/Welcome Thanksgiving",
+        "translate": {
+          "en": "Thanksgiving Now",
+          "zh": "感恩节到了",
+          "zh-HK": "感恩節到了"
+        }
+      },
+      {
+        "name": "obon5",
+        "item": 1,
+        "path": "/theme/holiday/obon5.zip",
+        "musicPath": "/music/vlog/just-relax.mp3",
+        "particle": "NATURAL_93",
+        "transitions": "PAG_INTEREST_CAMERA2",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/obon5",
+        "translate": {
+          "en": "Ancestor Tribute",
+          "zh": "祖先致敬",
+          "zh-HK": "祖先致敬"
+        }
+      },
+      {
+        "name": "obon4",
+        "item": 1,
+        "path": "/theme/holiday/obon4.zip",
+        "musicPath": "/music/soft/City Sunshine.mp3",
+        "particle": "PAG_PARTICL5",
+        "transitions": "FLASH_BLACK",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/obon4",
+        "translate": {
+          "en": "Obon Greeting",
+          "zh": "御盆节团聚",
+          "zh-HK": "禦盆節團聚"
+        }
+      },
+      {
+        "name": "obon3",
+        "item": 1,
+        "path": "/theme/holiday/obon3.zip",
+        "musicPath": "/music/beats/Beyond Dreams.mp3",
+        "particle": "PAG_PEN1,PAG_PEN2",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/obon3",
+        "translate": {
+          "en": "Obon Mukaebi",
+          "zh": "御盆节迎火",
+          "zh-HK": "禦盆節迎火"
+        }
+      },
+      {
+        "name": "obon2",
+        "item": 1,
+        "path": "/theme/holiday/obon2.zip",
+        "musicPath": "/music/vlog/just-relax.mp3",
+        "particle": "NATURAL_85",
+        "transitions": "SERIES2",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/obon2",
+        "translate": {
+          "en": "Obon Night",
+          "zh": "御盆节之夜",
+          "zh-HK": "禦盆節之夜"
+        }
+      },
+      {
+        "name": "obon1",
+        "item": 1,
+        "path": "/theme/holiday/obon1.zip",
+        "musicPath": "/music/children/RainyDayGames.mp3",
+        "particle": "NATURAL_85",
+        "transitions": "PAG_MG10",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/holiday/obon1",
+        "translate": {
+          "en": "Obon Journey",
+          "zh": "御盆节旅程",
+          "zh-HK": "禦盆節旅程"
+        }
+      },
+      {
+        "name": "celebration5",
+        "item": -1,
+        "path": "/theme/celebration/celebration5.zip",
+        "musicPath": "/music/happy/BollywoodGroove.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/celebration/05_HappyDiwali",
+        "translate": {
+          "en": "Pleasant Diwali",
+          "zh": "愉悦排灯节",
+          "zh-HK": "愉悅排燈節"
+        }
+      },
+      {
+        "name": "celebration6",
+        "item": -1,
+        "path": "/theme/celebration/celebration6.zip",
+        "musicPath": "/music/soft/Seeger.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/celebration/06_RamadanKareen",
+        "translate": {
+          "en": "Blessed Ramadan",
+          "zh": "祝福斋月",
+          "zh-HK": "祝福齋月"
+        }
+      },
+      {
+        "name": "celebration7",
+        "item": -1,
+        "path": "/theme/celebration/celebration7.zip",
+        "musicPath": "/music/happy/BreakingBollywood.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/celebration/07_RakshaBandhan",
+        "translate": {
+          "en": "Ramadan Kareen",
+          "zh": "愉悦兄妹节",
+          "zh-HK": "愉悅兄妹節"
+        }
+      },
+      {
+        "name": "celebration8",
+        "item": -1,
+        "path": "/theme/celebration/celebration8.zip",
+        "musicPath": "/music/soft/TheBluestStar.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/celebration/house warming party",
+        "translate": {
+          "en": "Housewarming Ceremony",
+          "zh": "乔迁仪式",
+          "zh-HK": "喬遷儀式"
+        }
+      },
+      {
+        "name": "celebration9",
+        "item": -1,
+        "path": "/theme/celebration/celebration9.zip",
+        "musicPath": "/music/soft/TheBluestStar.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/celebration/housewaarming invitation",
+        "translate": {
+          "en": "Housewarming Card",
+          "zh": "乔迁贺卡",
+          "zh-HK": "喬遷賀卡"
+        }
+      },
+      {
+        "name": "fatherday2",
+        "item": -1,
+        "path": "/theme/holiday/fatherday2.zip",
+        "musicPath": "/music/beats/Beyond Dreams.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/fatherday2",
+        "translate": {
+          "en": "Beloved Dad",
+          "zh": "亲爱的爸爸",
+          "zh-HK": "親愛的爸爸"
+        }
+      },
+      {
+        "name": "fatherday1",
+        "item": -1,
+        "path": "/theme/holiday/fatherday1.zip",
+        "musicPath": "/music/love/MyLove.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/fatherday1",
+        "translate": {
+          "en": "Dad\u0027s Smile",
+          "zh": "爸爸的微笑",
+          "zh-HK": "爸爸的微笑"
+        }
+      },
+      {
+        "name": "fatherday0",
+        "item": -1,
+        "path": "/theme/holiday/fatherday0.zip",
+        "musicPath": "/music/children/RodeoShow.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/fatherday0",
+        "translate": {
+          "en": "Happy Father\u0027s Day",
+          "zh": "父亲节快乐",
+          "zh-HK": "父親節快樂"
+        }
+      },
+      {
+        "name": "fatherday4",
+        "item": -1,
+        "path": "/theme/holiday/fatherday4.zip",
+        "musicPath": "/music/children/SnackTime.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/holiday/fatherday4",
+        "translate": {
+          "en": "Dad\u0027s Honor",
+          "zh": "爸爸的荣誉",
+          "zh-HK": "爸爸的榮譽"
+        }
+      },
+      {
+        "name": "fatherday3",
+        "item": -1,
+        "path": "/theme/holiday/fatherday3.zip",
+        "musicPath": "/music/happy/Happy Ukulele.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/fatherday3",
+        "translate": {
+          "en": "Strong Dad",
+          "zh": "坚强的爸爸",
+          "zh-HK": "堅強的爸爸"
+        }
+      },
+      {
+        "name": "childrenday6",
+        "item": -1,
+        "path": "/theme/holiday/childrenday6.zip",
+        "musicPath": "/music/children/SplashingAround.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/childrenday6",
+        "translate": {
+          "en": "Dreamy Days",
+          "zh": "梦幻时光",
+          "zh-HK": "夢幻時光"
+        }
+      },
+      {
+        "name": "childrenday10",
+        "item": -1,
+        "path": "/theme/holiday/childrenday10.zip",
+        "musicPath": "/music/children/SplashingAround.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/childrenday10",
+        "translate": {
+          "en": "Kids\u0027 Magic",
+          "zh": "儿童魔法",
+          "zh-HK": "兒童魔法"
+        }
+      },
+      {
+        "name": "childrenday11",
+        "item": -1,
+        "path": "/theme/holiday/childrenday11.zip",
+        "musicPath": "/music/children/SnackTime.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/childrenday11",
+        "translate": {
+          "en": "Kids\u0027 Paradise",
+          "zh": "儿童乐园",
+          "zh-HK": "兒童樂園"
+        }
+      },
+      {
+        "name": "childrenday7",
+        "item": -1,
+        "path": "/theme/holiday/childrenday7.zip",
+        "musicPath": "/music/children/DancingonGreenGrass.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/holiday/childrenday7",
+        "translate": {
+          "en": "Childhood Bliss",
+          "zh": "童年幸福",
+          "zh-HK": "童年幸福"
+        }
+      },
+      {
+        "name": "childrenday9",
+        "item": -1,
+        "path": "/theme/holiday/childrenday9.zip",
+        "musicPath": "/music/children/RodeoShow.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/childrenday9",
+        "translate": {
+          "en": "Little Heroes",
+          "zh": "小小英雄",
+          "zh-HK": "小小英雄"
+        }
+      },
+      {
+        "name": "childrenday8",
+        "item": -1,
+        "path": "/theme/holiday/childrenday8.zip",
+        "musicPath": "/music/children/SnackTime.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/childrenday8",
+        "translate": {
+          "en": "Sweet Memories",
+          "zh": "甜蜜回忆",
+          "zh-HK": "甜蜜回憶"
+        }
+      },
+      {
+        "name": "teacherday3",
+        "item": -1,
+        "path": "/theme/holiday/teacherday3.zip",
+        "musicPath": "/music/soft/ConnecttheDots.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/teacherday3",
+        "translate": {
+          "en": "Teachers\u0027 Day",
+          "zh": "教师节",
+          "zh-HK": "教師節"
+        }
+      },
+      {
+        "name": "teacherday4",
+        "item": -1,
+        "path": "/theme/holiday/teacherday4.zip",
+        "musicPath": "/music/soft/WalkingStars.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/teacherday4",
+        "translate": {
+          "en": "Teacher\u0027s Day moments",
+          "zh": "教师节瞬间",
+          "zh-HK": "教師節瞬間"
+        }
+      },
+      {
+        "name": "teacherday5",
+        "item": -1,
+        "path": "/theme/holiday/teacherday5.zip",
+        "musicPath": "/music/love/YouRaiseMeUp.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/holiday/teacherday5",
+        "translate": {
+          "en": "To the teacher",
+          "zh": "致教师",
+          "zh-HK": "致教師"
+        }
+      },
+      {
+        "name": "teacherday6",
+        "item": -1,
+        "path": "/theme/holiday/teacherday6.zip",
+        "musicPath": "/music/soft/Higher.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/teacherday6",
+        "translate": {
+          "en": "Teacher\u0027s Day greetings",
+          "zh": "教师节祝福",
+          "zh-HK": "教師節祝福"
+        }
+      },
+      {
+        "name": "teacherday11",
+        "item": -1,
+        "path": "/theme/holiday/teacherday11.zip",
+        "musicPath": "/music/soft/Happy Times.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/teacherday11",
+        "translate": {
+          "en": "Teacher\u0027s Day activities",
+          "zh": "教师节活动",
+          "zh-HK": "教師節活動"
+        }
+      },
+      {
+        "name": "holiday13",
+        "item": -1,
+        "path": "/theme/holiday/holiday13.zip",
+        "musicPath": "/music/general/ForAllYouKnow.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/Graduation season",
+        "translate": {
+          "en": "Graduation",
+          "zh": "毕业庆贺",
+          "zh-HK": "畢業慶賀"
+        }
+      },
+      {
+        "name": "holiday14",
+        "item": -1,
+        "path": "/theme/holiday/holiday14.zip",
+        "musicPath": "/music/general/EdgarsBells-Movement2Golden.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/Father day",
+        "translate": {
+          "en": "Best Father",
+          "zh": "最好的父亲",
+          "zh-HK": "最好的父親"
+        }
+      }
+    ],
+    "newyear": [
+      {
+        "name": "newyear25",
+        "item": 1,
+        "path": "/theme/newyear/newyear25.zip",
+        "musicPath": "/music/festival/new-year-greetings.mp3",
+        "particle": "PAG_PARTICLE37",
+        "transitions": "PAG_MG2",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/newyear/newyear25",
+        "translate": {
+          "en": "2025 Dreams",
+          "zh": "2025梦想",
+          "zh-HK": "2025夢想"
+        }
+      },
+      {
+        "name": "newyear26",
+        "item": 1,
+        "path": "/theme/newyear/newyear26.zip",
+        "musicPath": "/music/general/positive_happy.mp3",
+        "particle": "PAG_PARTICLE27",
+        "transitions": "PAG_BOOM4",
+        "ratio": "16:9",
+        "previewRatio": "16:9",
+        "previewPath": "/resource_3/newyear/newyear26",
+        "translate": {
+          "en": "New Year Lights",
+          "zh": "新年灯光",
+          "zh-HK": "新年燈光"
+        }
+      },
+      {
+        "name": "newyear27",
+        "item": 1,
+        "path": "/theme/newyear/newyear27.zip",
+        "musicPath": "/music/soft/Happy Times.mp3",
+        "transitions": "FADE_IN",
+        "ratio": "9:16",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/newyear/newyear27",
+        "vip": true,
+        "translate": {
+          "en": "2025 Sparkle",
+          "zh": "2025闪耀",
+          "zh-HK": "2025閃耀"
+        }
+      },
+      {
+        "name": "newyear28",
+        "item": 1,
+        "path": "/theme/newyear/newyear28.zip",
+        "musicPath": "/music/festival/happy-acoustic.mp3",
+        "transitions": "FADE_IN",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/newyear/newyear28",
+        "translate": {
+          "en": "New Year Bliss",
+          "zh": "新年幸福",
+          "zh-HK": "新年幸福"
+        }
+      },
+      {
+        "name": "newyear29",
+        "item": 1,
+        "path": "/theme/newyear/newyear29.zip",
+        "musicPath": "/music/festival/happy-holiday.mp3",
+        "particle": "SYSTEM_17",
+        "transitions": "SERIES1",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/newyear/newyear29",
+        "translate": {
+          "en": "New Year Spark",
+          "zh": "新年火花",
+          "zh-HK": "新年火花"
+        }
+      },
+      {
+        "name": "newyear30",
+        "item": 1,
+        "path": "/theme/newyear/newyear30.zip",
+        "musicPath": "/music/beats/Beyond Dreams.mp3",
+        "particle": "FANCY_61",
+        "transitions": "SERIES2",
+        "ratio": "3:4",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/newyear/newyear30",
+        "translate": {
+          "en": "2025 Celebration",
+          "zh": "2025庆典",
+          "zh-HK": "2025慶典"
+        }
+      },
+      {
+        "name": "newyear31",
+        "item": 1,
+        "path": "/theme/newyear/newyear31.zip",
+        "musicPath": "/music/festival/happy-acoustic.mp3",
+        "particle": "SYSTEM_10",
+        "transitions": "SERIES4",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/newyear/newyear31",
+        "translate": {
+          "en": "New Year Charm",
+          "zh": "新年魅力",
+          "zh-HK": "新年魅力"
+        }
+      },
+      {
+        "name": "newyear32",
+        "item": 1,
+        "path": "/theme/newyear/newyear32.zip",
+        "musicPath": "/music/festival/New Year, New Beginning.mp3",
+        "particle": "PAG_PARTICLE13",
+        "transitions": "SERIES3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/newyear/newyear32",
+        "translate": {
+          "en": "Magic 2025 ",
+          "zh": "神奇2025",
+          "zh-HK": "神奇2025"
+        }
+      },
+      {
+        "name": "newyear4",
+        "item": 3,
+        "path": "/theme/newyear/newyear4.zip",
+        "musicPath": "/music/festival/happy-acoustic.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/newyear/newyear4",
+        "translate": {
+          "en": "New Year Scenes",
+          "zh": "新年氛围",
+          "zh-HK": "新年氛圍"
+        }
+      },
+      {
+        "name": "newyear5",
+        "item": 2,
+        "path": "/theme/newyear/newyear5.zip",
+        "musicPath": "/music/festival/chinese-happy-new-year.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/newyear/newyear5",
+        "vip": true,
+        "translate": {
+          "en": "Happy New Year",
+          "zh": "新年快乐",
+          "zh-HK": "新年快樂"
+        }
+      },
+      {
+        "name": "newyear21",
+        "item": 1,
+        "path": "/theme/newyear/newyear21_1.zip",
+        "musicPath": "/music/general/positive_happy.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/newyear/newyear21_1",
+        "translate": {
+          "en": "Welcome 2025",
+          "zh": "喜迎2025",
+          "zh-HK": "喜迎2025"
+        }
+      },
+      {
+        "name": "newyear22",
+        "item": 1,
+        "path": "/theme/newyear/newyear22_1.zip",
+        "musicPath": "/music/soft/Happy Times.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/newyear/newyear22_1",
+        "translate": {
+          "en": "Happy 2025",
+          "zh": "2025快乐",
+          "zh-HK": "2025快樂"
+        }
+      },
+      {
+        "name": "newyear6",
+        "item": 1,
+        "path": "/theme/newyear/newyear6.zip",
+        "musicPath": "/music/festival/happy-holiday.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/newyear/newyear6",
+        "translate": {
+          "en": "New Year Fireworks",
+          "zh": "新年烟花",
+          "zh-HK": "新年煙火"
+        }
+      },
+      {
+        "name": "newyear7",
+        "item": 0,
+        "path": "/theme/newyear/newyear7.zip",
+        "musicPath": "/music/festival/New Year, New Beginning.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/newyear/newyear7",
+        "translate": {
+          "en": "New Year Countdown",
+          "zh": "新年倒计时",
+          "zh-HK": "新年倒計時"
+        }
+      },
+      {
+        "name": "newyear8",
+        "item": 0,
+        "path": "/theme/newyear/newyear8.zip",
+        "musicPath": "/music/beats/Beyond Dreams.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/newyear/newyear8",
+        "translate": {
+          "en": "New Year Reunion",
+          "zh": "新年团聚",
+          "zh-HK": "新年團聚"
+        }
+      },
+      {
+        "name": "newyear9",
+        "item": 0,
+        "path": "/theme/newyear/newyear9.zip",
+        "musicPath": "/music/general/positive_happy.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/newyear/newyear9",
+        "vip": true,
+        "translate": {
+          "en": "New Year Music",
+          "zh": "新年音乐",
+          "zh-HK": "新年音樂"
+        }
+      },
+      {
+        "name": "newyear17",
+        "item": 1,
+        "path": "/theme/newyear/newyear17_1.zip",
+        "musicPath": "/music/festival/New Year, New Beginning.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/newyear/newyear17_1",
+        "translate": {
+          "en": "Beautiful 2025",
+          "zh": "美好2025",
+          "zh-HK": "美好2025"
+        }
+      },
+      {
+        "name": "newyear19",
+        "item": 1,
+        "path": "/theme/newyear/newyear19_1.zip",
+        "musicPath": "/music/soft/Happy Times.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/newyear/newyear19_1",
+        "translate": {
+          "en": "New Year Food",
+          "zh": "新年美食",
+          "zh-HK": "新年美食"
+        }
+      },
+      {
+        "name": "newyear20",
+        "item": 1,
+        "path": "/theme/newyear/newyear20_1.zip",
+        "musicPath": "/music/beats/Beyond Dreams.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/newyear/newyear20_1",
+        "translate": {
+          "en": "New Year Twinkle",
+          "zh": "新年闪耀",
+          "zh-HK": "新年閃耀"
+        }
+      },
+      {
+        "name": "newyear18",
+        "item": 1,
+        "path": "/theme/newyear/newyear18_1.zip",
+        "musicPath": "/music/festival/chinese-happy-new-year.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/newyear/newyear18_1",
+        "vip": true,
+        "translate": {
+          "en": "Hello 2025",
+          "zh": "你好2025",
+          "zh-HK": "你好2025"
+        }
+      },
+      {
+        "name": "newyear23",
+        "item": 1,
+        "path": "/theme/newyear/newyear23_1.zip",
+        "musicPath": "/music/festival/happy-acoustic.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/newyear/newyear23_1",
+        "translate": {
+          "en": "New Year Music",
+          "zh": "新年音乐",
+          "zh-HK": "新年音樂"
+        }
+      },
+      {
+        "name": "newyear24",
+        "item": 1,
+        "path": "/theme/newyear/newyear24_1.zip",
+        "musicPath": "/music/festival/happy-holiday.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/newyear/newyear24_1",
+        "translate": {
+          "en": "Record 2025",
+          "zh": "记录2025",
+          "zh-HK": "記錄2025"
+        }
+      },
+      {
+        "name": "newyear10",
+        "item": 0,
+        "path": "/theme/newyear/newyear10.zip",
+        "musicPath": "/music/festival/happy-holiday.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/newyear/newyear10",
+        "translate": {
+          "en": "New Year is Coming",
+          "zh": "新年来了",
+          "zh-HK": "新年來了"
+        }
+      },
+      {
+        "name": "newyear11",
+        "item": 0,
+        "path": "/theme/newyear/newyear11.zip",
+        "musicPath": "/music/festival/chinese-happy-new-year.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/newyear/newyear11",
+        "translate": {
+          "en": "New Year\u0027s Eve",
+          "zh": "新年之夜",
+          "zh-HK": "新年之夜"
+        }
+      },
+      {
+        "name": "newyear12",
+        "item": 0,
+        "path": "/theme/newyear/newyear12.zip",
+        "musicPath": "/music/happy/Happy Ukulele.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/newyear/newyear12",
+        "translate": {
+          "en": "Hello New Year",
+          "zh": "你好新年",
+          "zh-HK": "你好新年"
+        }
+      },
+      {
+        "name": "newyear13",
+        "item": 0,
+        "path": "/theme/newyear/newyear13.zip",
+        "musicPath": "/music/soft/Happy Times.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/newyear/newyear13",
+        "translate": {
+          "en": "New Year Decoration",
+          "zh": "新年装饰",
+          "zh-HK": "新年裝飾"
+        }
+      },
+      {
+        "name": "newyear14",
+        "item": 0,
+        "path": "/theme/newyear/newyear14.zip",
+        "musicPath": "/music/festival/a-christmas-tree-in-every-home.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/newyear/newyear14",
+        "translate": {
+          "en": "New Year Together",
+          "zh": "共度新年",
+          "zh-HK": "共度新年"
+        }
+      },
+      {
+        "name": "newyear15",
+        "item": 0,
+        "path": "/theme/newyear/newyear15.zip",
+        "musicPath": "/music/festival/modern-christmas-full-no-santa.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/newyear/newyear15",
+        "translate": {
+          "en": "New Year Blessing",
+          "zh": "新年祝愿",
+          "zh-HK": "新年祝愿"
+        }
+      },
+      {
+        "name": "newyear16",
+        "item": 0,
+        "path": "/theme/newyear/newyear16.zip",
+        "musicPath": "/music/festival/happy-holiday.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/newyear/newyear16",
+        "vip": true,
+        "translate": {
+          "en": "New Year Celebration",
+          "zh": "新年庆祝",
+          "zh-HK": "新年慶祝"
+        }
+      },
+      {
+        "name": "newyear2",
+        "item": 2,
+        "path": "/theme/newyear/newyear2.zip",
+        "musicPath": "/music/festival/little-swallow.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/newyear/newyear2",
+        "translate": {
+          "en": "New Year Twinkle",
+          "zh": "新年闪耀",
+          "zh-HK": "新年閃耀"
+        }
+      },
+      {
+        "name": "newyear1",
+        "item": 1,
+        "path": "/theme/newyear/newyear1.zip",
+        "musicPath": "/music/festival/happy-holiday.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/newyear/newyear1",
+        "translate": {
+          "en": "New Year Eve",
+          "zh": "新年之夜",
+          "zh-HK": "新年之夜"
+        }
+      },
+      {
+        "name": "newyear0",
+        "item": 0,
+        "path": "/theme/newyear/newyear0.zip",
+        "musicPath": "/music/festival/New Year, New Beginning.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/newyear/newyear0",
+        "translate": {
+          "en": "New Year Greeting",
+          "zh": "新年问候",
+          "zh-HK": "新年問候"
+        }
+      },
+      {
+        "name": "common31",
+        "item": 30,
+        "path": "/theme/common/common31_new.zip",
+        "musicPath": "/music/soft/Wings.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/common/common31",
+        "translate": {
+          "en": "New Year Plan",
+          "zh": "新年计划",
+          "zh-HK": "新年計劃"
+        }
+      },
+      {
+        "name": "holiday9",
+        "item": 8,
+        "path": "/theme/holiday/holiday9.zip",
+        "musicPath": "/music/happy/Sunny_Afternoon.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/NewYearStar",
+        "translate": {
+          "en": "New Year Shining",
+          "zh": "闪亮新年",
+          "zh-HK": "閃亮新年"
+        }
+      },
+      {
+        "name": "holiday8",
+        "item": 7,
+        "path": "/theme/holiday/holiday8.zip",
+        "musicPath": "/music/happy/Sunny_Afternoon.mp3",
+        "previewRatio": "3:4",
+        "previewPath": "/resource_3/holiday/Newyear night",
+        "translate": {
+          "en": "New Year Midnight",
+          "zh": "新年午夜",
+          "zh-HK": "新年午夜"
+        }
+      },
+      {
+        "name": "holiday7",
+        "item": 6,
+        "path": "/theme/holiday/holiday7.zip",
+        "musicPath": "/music/happy/Sunny_Afternoon.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/New year party",
+        "translate": {
+          "en": "New Year Bash",
+          "zh": "新年派对",
+          "zh-HK": "新年派對"
+        }
+      },
+      {
+        "name": "holiday6",
+        "item": 5,
+        "path": "/theme/holiday/holiday6.zip",
+        "musicPath": "/music/happy/Sunny_Afternoon.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/holiday/Newyear wish",
+        "translate": {
+          "en": "New Year Blessing",
+          "zh": "新年祝愿",
+          "zh-HK": "新年祝願"
+        }
+      },
+      {
+        "name": "newyear3",
+        "item": 3,
+        "path": "/theme/newyear/newyear3.zip",
+        "musicPath": "/music/festival/happy-holiday.mp3",
+        "previewRatio": "9:16",
+        "previewPath": "/resource_3/newyear/newyear3",
+        "translate": {
+          "en": "New Year Celebration",
+          "zh": "庆祝新年",
+          "zh-HK": "慶祝新年"
+        }
+      }
+    ]
+  }
+}
