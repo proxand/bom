@@ -53,7 +53,6 @@ afterEvaluate {
 
 dependencies {
     constraints {
-        api(":imagelib")
         //android app
         api("androidx.core:core-ktx:1.16.0")
         api("androidx.appcompat:appcompat:1.7.1")
