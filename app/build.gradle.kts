@@ -2,8 +2,6 @@ plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
     id("com.google.dagger.hilt.android")
-    id("com.google.gms.google-services")
-    id("com.google.firebase.crashlytics")
     id("com.google.devtools.ksp")
 }
 
@@ -74,12 +72,12 @@ dependencies {
     ksp ("androidx.room:room-compiler:2.7.2")
 
 
-    implementation(platform("com.google.firebase:firebase-bom:33.16.0"))
-    implementation("com.google.firebase:firebase-config-ktx")
-    implementation("com.google.firebase:firebase-database-ktx")
-    implementation("com.google.firebase:firebase-analytics-ktx")
-    implementation("com.google.firebase:firebase-messaging-ktx")
-    implementation("com.google.firebase:firebase-crashlytics-ktx")
+//    implementation(platform("com.google.firebase:firebase-bom:33.16.0"))
+//    implementation("com.google.firebase:firebase-config-ktx")
+//    implementation("com.google.firebase:firebase-database-ktx")
+//    implementation("com.google.firebase:firebase-analytics-ktx")
+//    implementation("com.google.firebase:firebase-messaging-ktx")
+//    implementation("com.google.firebase:firebase-crashlytics-ktx")
 
     implementation("io.github.rupinderjeet:kprogresshud")
     implementation("com.google.code.gson:gson")
